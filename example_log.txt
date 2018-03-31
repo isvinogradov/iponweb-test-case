@@ -1,0 +1,1000 @@
+[2018-02-03T13:09:09.639478+00:00 WARNING] event_type=EventType7 event_id=5d0304b3-17f2-4ceb-9dc6-bc8003ee6e47 Event description
+[2018-02-03T13:12:20.854453+00:00 DEBUG  ] event_type=EventType18 event_id=a5c541af-7a62-46ee-90fa-0601a62360cb Event description
+Error line
+[2018-02-03T12:44:00.697152+00:00 WARNING] event_type=EventType10 event_id=1432af09-9f23-447a-9462-1951f4a86e4a Event description
+[2018-02-03T13:31:52.471635+00:00 INFO   ] event_type=EventType13 event_id=f4622a4d-f5af-42f5-acc4-504b726ffd3d Event description
+[2018-02-03T13:06:54.838618+00:00 INFO   ] event_type=EventType17 event_id=18829379-96f9-40f0-825d-c23cee2e8f12 Event description
+Error line
+[2018-02-03T12:58:01.196506+00:00 WARNING] event_type=EventType9 event_id=5c2680c2-1516-42e3-b45a-8a57a63143d8 Event description
+[2018-02-03T13:13:17.927174+00:00 INFO   ] event_type=EventType14 event_id=29a1e229-fe3a-4b2e-8027-77d64c0ac340 Event description
+[2018-02-03T12:58:51.747579+00:00 WARNING] event_type=EventType9 event_id=6b81c34c-3edf-401e-9888-ac8bb8abd95e Event description
+Error line
+[2018-02-03T12:58:06.072642+00:00 INFO   ] event_type=EventType4 event_id=3adb1777-a582-4a0b-a644-9576aeccd2a7 Event description
+[2018-02-03T13:23:51.513586+00:00 WARNING] event_type=EventType16 event_id=2dbd631b-47b2-4b8f-8507-3562c01a0cbf Event description
+[2018-02-03T12:48:05.517055+00:00 WARNING] event_type=EventType19 event_id=b2bd4259-6e38-4911-b4c3-e3a90441a58c Event description
+[2018-02-03T12:36:49.761204+00:00 INFO   ] event_type=EventType0 event_id=d1e832a2-a66d-44d2-9f4b-3cdff1e84308 Event description
+[2018-02-03T13:26:11.334259+00:00 INFO   ] event_type=EventType13 event_id=a443bd79-d5e4-468a-94bc-e140618a7d7a Event description
+[2018-02-03T13:04:21.339265+00:00 DEBUG  ] event_type=EventType3 event_id=c9b030ec-0193-4fe4-b9a4-b5359ac7f473 Event description
+[2018-02-03T13:33:33.698826+00:00 DEBUG  ] event_type=EventType5 event_id=e2220359-c240-4501-8b72-a6e21de3aa39 Event description
+[2018-02-03T12:39:32.932658+00:00 WARNING] event_type=EventType15 event_id=687547e6-924a-4a41-88e3-a81b5bd608fb Event description
+[2018-02-03T12:43:51.053107+00:00 DEBUG  ] event_type=EventType9 event_id=c95622b8-06fa-48f5-ab18-71041a36a3b6 Event description
+[2018-02-03T13:04:58.622768+00:00 DEBUG  ] event_type=EventType4 event_id=3644a6a2-70ba-4e08-92e8-8e3ede4ef402 Event description
+[2018-02-03T13:34:46.671009+00:00 WARNING] event_type=EventType15 event_id=64820c2f-26a1-4b0c-a24e-0c9d69d492eb Event description
+Error line
+[2018-02-03T12:54:23.332378+00:00 WARNING] event_type=EventType14 event_id=fc3bdcd1-4135-4e1d-aa1c-132f81e779d9 Event description
+[2018-02-03T13:19:40.513476+00:00 INFO   ] event_type=EventType16 event_id=23b32cdd-0c36-4373-88de-2debaa8cfd44 Event description
+[2018-02-03T13:12:50.854685+00:00 DEBUG  ] event_type=EventType13 event_id=3b571962-ee2a-4224-a9b5-dea958c81bc5 Event description
+Error line
+[2018-02-03T12:59:07.471778+00:00 DEBUG  ] event_type=EventType8 event_id=98f10167-2ab3-4d34-ab5e-0c9938c9176c Event description
+[2018-02-03T13:23:05.766126+00:00 INFO   ] event_type=EventType0 event_id=9a8bd47c-bb18-4e19-bd4d-ac644f39012a Event description
+[2018-02-03T13:14:31.250421+00:00 WARNING] event_type=EventType9 event_id=c997b979-b634-421e-bbe6-5ac7e2eeddc2 Event description
+[2018-02-03T12:44:04.922731+00:00 DEBUG  ] event_type=EventType1 event_id=de52fe0a-ad8b-4aec-97e1-8274023200f9 Event description
+Error line
+[2018-02-03T13:05:07.666335+00:00 WARNING] event_type=EventType9 event_id=9ce4f8b1-e5da-42b0-a1a2-a5811b7d8834 Event description
+[2018-02-03T13:05:40.837018+00:00 DEBUG  ] event_type=EventType0 event_id=16408f41-530a-4fe2-a2e2-7052dcdbacac Event description
+[2018-02-03T12:55:07.562195+00:00 INFO   ] event_type=EventType6 event_id=4b8ae803-c899-419c-ad16-d58ab72546aa Event description
+[2018-02-03T13:30:47.930908+00:00 WARNING] event_type=EventType13 event_id=9d974e5d-05ec-435d-a813-5d442238b0f4 Event description
+Error line
+[2018-02-03T12:40:42.478563+00:00 WARNING] event_type=EventType6 event_id=8a14ab1a-412a-42ab-b8d2-d166d42237a5 Event description
+[2018-02-03T13:09:31.224887+00:00 DEBUG  ] event_type=EventType8 event_id=546a338e-bce0-434e-aa9a-983f9e665abc Event description
+[2018-02-03T13:32:33.912907+00:00 DEBUG  ] event_type=EventType13 event_id=f91fdb87-62fe-4ffe-9b8a-c3df5af130bb Event description
+Error line
+[2018-02-03T12:54:32.833591+00:00 DEBUG  ] event_type=EventType2 event_id=895401d1-babb-48f4-94d3-0539df08c434 Event description
+[2018-02-03T12:51:37.984005+00:00 WARNING] event_type=EventType5 event_id=7ab588f6-08a2-4543-9b13-2c3c4f2fe145 Event description
+[2018-02-03T12:53:54.280818+00:00 WARNING] event_type=EventType13 event_id=5e441584-b2cc-4f11-bb3e-e9c555e8d606 Event description
+[2018-02-03T12:38:07.445027+00:00 DEBUG  ] event_type=EventType9 event_id=a2d1cd94-d1f9-47a4-b365-45cec3230101 Event description
+[2018-02-03T13:26:07.380860+00:00 DEBUG  ] event_type=EventType14 event_id=d74d6bdd-ecff-4181-8819-bee75dd478fe Event description
+[2018-02-03T13:34:43.978228+00:00 WARNING] event_type=EventType15 event_id=101abe56-1ee5-4357-95ae-90372397b1e8 Event description
+[2018-02-03T12:54:28.887017+00:00 INFO   ] event_type=EventType9 event_id=aa53a140-14b6-4f5a-ae77-4c1f8e76bd72 Event description
+[2018-02-03T12:58:53.969222+00:00 WARNING] event_type=EventType18 event_id=04d7aa9b-b5cb-4f71-ae46-db6dd1fbd612 Event description
+[2018-02-03T13:26:52.760777+00:00 INFO   ] event_type=EventType4 event_id=33a95c79-1947-4719-9f0d-18a2f818255a Event description
+[2018-02-03T13:04:40.801737+00:00 DEBUG  ] event_type=EventType14 event_id=964811c2-cd07-4c06-aa58-9f2769a28fc4 Event description
+[2018-02-03T13:15:51.376190+00:00 WARNING] event_type=EventType9 event_id=a52b37c4-a12a-4950-bfbc-828ea1999fc3 Event description
+[2018-02-03T12:54:19.204773+00:00 DEBUG  ] event_type=EventType5 event_id=650c2038-0ca4-41a0-80dd-b3795a9f9c49 Event description
+[2018-02-03T13:27:29.973216+00:00 DEBUG  ] event_type=EventType9 event_id=acc47fd5-7cdf-41b8-8888-6db828539e35 Event description
+[2018-02-03T12:51:55.146070+00:00 INFO   ] event_type=EventType10 event_id=2c6619e2-7730-4b99-9ab8-5dd6f91e66dc Event description
+[2018-02-03T13:20:15.072710+00:00 DEBUG  ] event_type=EventType13 event_id=c8e9baf9-44e0-4946-bc21-f990d1e5e0fd Event description
+[2018-02-03T13:12:30.685041+00:00 DEBUG  ] event_type=EventType9 event_id=ba83e698-b017-4605-81db-20ee04075b35 Event description
+[2018-02-03T12:54:33.752970+00:00 DEBUG  ] event_type=EventType4 event_id=2153d97c-1376-4813-8aac-36ba07a25bd6 Event description
+[2018-02-03T13:17:16.623169+00:00 WARNING] event_type=EventType13 event_id=6fff3e17-5fd3-49b0-aae7-bc036ef465b3 Event description
+Error line
+[2018-02-03T12:52:51.551453+00:00 INFO   ] event_type=EventType9 event_id=6de94ae7-00cb-4855-a55c-836af64ad173 Event description
+[2018-02-03T12:47:04.182120+00:00 WARNING] event_type=EventType11 event_id=b1e03879-ea81-4405-8d99-fbda70c2a508 Event description
+[2018-02-03T12:59:59.544625+00:00 DEBUG  ] event_type=EventType8 event_id=123b0a97-5d3a-44d7-9e86-743fa64c904a Event description
+[2018-02-03T13:20:37.690855+00:00 INFO   ] event_type=EventType16 event_id=29bdc56b-fb6e-4678-bc87-f10eebbf5cad Event description
+[2018-02-03T13:31:17.277907+00:00 WARNING] event_type=EventType6 event_id=c713f39d-2b36-4f60-92ce-a6ca9820c19b Event description
+[2018-02-03T13:32:39.844515+00:00 DEBUG  ] event_type=EventType18 event_id=3fad48bc-d296-42e4-bde3-5a7c3a1056f3 Event description
+[2018-02-03T13:09:04.319070+00:00 DEBUG  ] event_type=EventType9 event_id=9c98b866-7085-426a-b884-953efcd4a46d Event description
+Error line
+[2018-02-03T13:01:46.470959+00:00 INFO   ] event_type=EventType19 event_id=4bc64b30-34f2-4c04-8573-8e85a6335e8d Event description
+[2018-02-03T12:40:44.117372+00:00 DEBUG  ] event_type=EventType18 event_id=f0ed6e7e-6716-456b-9092-869e03427099 Event description
+[2018-02-03T13:32:10.786912+00:00 INFO   ] event_type=EventType9 event_id=12822c47-0e3b-4a26-8f9b-3f8312daf06c Event description
+Error line
+[2018-02-03T13:10:09.028188+00:00 INFO   ] event_type=EventType9 event_id=e7f7c8a6-f068-41de-aa5c-ccfa01ba4065 Event description
+[2018-02-03T13:31:28.667349+00:00 WARNING] event_type=EventType9 event_id=17e18e6c-93f6-491f-99ca-e834366788d4 Event description
+[2018-02-03T13:04:13.056666+00:00 DEBUG  ] event_type=EventType14 event_id=946137c5-b18c-467f-b047-d2c8474c1607 Event description
+[2018-02-03T12:35:58.209148+00:00 WARNING] event_type=EventType9 event_id=abe0482b-ce10-4dff-861c-56e121c9ba84 Event description
+Error line
+[2018-02-03T13:31:08.939923+00:00 WARNING] event_type=EventType9 event_id=1bfef36a-ddb2-4946-a2b7-603724f96e38 Event description
+[2018-02-03T13:06:17.088235+00:00 DEBUG  ] event_type=EventType8 event_id=14af905d-9a16-47ef-a373-d4e0ea9f8eee Event description
+[2018-02-03T13:09:01.372791+00:00 INFO   ] event_type=EventType6 event_id=965606b0-c531-4ae3-ad4f-6bdbe324bcd4 Event description
+[2018-02-03T13:20:40.205806+00:00 WARNING] event_type=EventType9 event_id=b094867f-d862-48fe-933a-310434cb2d53 Event description
+[2018-02-03T13:08:30.471246+00:00 DEBUG  ] event_type=EventType8 event_id=129eaa90-f563-4d20-8b50-122be7d808fb Event description
+[2018-02-03T13:11:00.040345+00:00 DEBUG  ] event_type=EventType11 event_id=9670a8ef-5a39-4ff2-a490-0ea2495e2ee6 Event description
+[2018-02-03T12:39:34.774075+00:00 DEBUG  ] event_type=EventType16 event_id=15c37c71-0462-42f9-a226-055a33258f98 Event description
+[2018-02-03T13:13:27.618700+00:00 WARNING] event_type=EventType16 event_id=d1dcb409-70c9-4f4f-b9d0-17a53820a42d Event description
+[2018-02-03T13:16:27.266774+00:00 INFO   ] event_type=EventType17 event_id=738d8a42-4ca1-4aa6-81e6-2c0fbf44c12b Event description
+[2018-02-03T12:51:08.958826+00:00 WARNING] event_type=EventType11 event_id=7a5206a4-9fec-453a-9459-b037d08339c3 Event description
+[2018-02-03T13:28:21.979374+00:00 DEBUG  ] event_type=EventType2 event_id=872d8077-6a58-4bf5-962d-59e4c3c44dbb Event description
+Error line
+[2018-02-03T12:39:57.354626+00:00 WARNING] event_type=EventType4 event_id=3bb73125-796e-4e39-a7f5-d5adfa042f62 Event description
+Error line
+[2018-02-03T12:54:28.953015+00:00 INFO   ] event_type=EventType17 event_id=8894b579-6f66-455f-8ac6-e0e6c843d93c Event description
+[2018-02-03T12:41:51.239096+00:00 DEBUG  ] event_type=EventType13 event_id=be53db35-045a-464b-a605-b33ce4ad417d Event description
+[2018-02-03T12:50:15.218298+00:00 WARNING] event_type=EventType1 event_id=ef6fa8d5-a4c8-494e-ae4c-5a708b1c2d06 Event description
+[2018-02-03T13:06:15.506441+00:00 WARNING] event_type=EventType6 event_id=ed0c3f44-7b42-415e-8fbc-11e2a7773f82 Event description
+[2018-02-03T12:41:38.883163+00:00 DEBUG  ] event_type=EventType9 event_id=780ddce3-6088-4dfa-9058-3b3c7865467f Event description
+[2018-02-03T13:23:34.917315+00:00 WARNING] event_type=EventType9 event_id=390350fb-d3fa-4812-9c2c-3fb2915aa84d Event description
+[2018-02-03T13:11:52.500433+00:00 DEBUG  ] event_type=EventType11 event_id=c9da9c26-cdcb-43e0-b7d6-d1aaec4e08b0 Event description
+[2018-02-03T13:30:25.234602+00:00 WARNING] event_type=EventType17 event_id=df27e0ed-8abe-4071-b344-ffdbd0a0394b Event description
+[2018-02-03T13:35:39.631120+00:00 WARNING] event_type=EventType9 event_id=6bcd6d09-69c1-4ffd-9a8c-f55cbcebae9e Event description
+[2018-02-03T13:00:50.132465+00:00 INFO   ] event_type=EventType6 event_id=793a8477-a193-4087-98ae-3baa3f862be7 Event description
+[2018-02-03T12:49:50.196011+00:00 INFO   ] event_type=EventType13 event_id=ecfc9ec2-20e8-4720-8ca9-d121febc9d77 Event description
+[2018-02-03T12:35:44.048065+00:00 DEBUG  ] event_type=EventType14 event_id=2a9e460d-df89-4d20-a743-1737face98f4 Event description
+Error line
+[2018-02-03T13:08:47.453022+00:00 DEBUG  ] event_type=EventType9 event_id=e1d8faeb-be4d-4474-8efa-c24d772f3f91 Event description
+[2018-02-03T13:04:09.622538+00:00 DEBUG  ] event_type=EventType13 event_id=7758846f-6dd3-4079-b5ff-efec8d5b9a9a Event description
+[2018-02-03T13:05:58.704386+00:00 WARNING] event_type=EventType0 event_id=f02b4579-d6fc-47c1-b055-8a1d4e284451 Event description
+[2018-02-03T13:29:40.884601+00:00 DEBUG  ] event_type=EventType5 event_id=8697313c-cc20-4551-9419-dc7a65cac330 Event description
+[2018-02-03T12:39:40.114036+00:00 DEBUG  ] event_type=EventType6 event_id=25e3539f-51f4-45a4-9d4f-80c4d1cac7d6 Event description
+[2018-02-03T12:54:14.043876+00:00 INFO   ] event_type=EventType9 event_id=c5053a41-a6d8-4fc8-acb7-500ca49d9527 Event description
+[2018-02-03T13:22:51.192256+00:00 INFO   ] event_type=EventType13 event_id=62573e57-c92a-47b6-8f8d-5fcb49344e99 Event description
+[2018-02-03T13:12:01.551292+00:00 WARNING] event_type=EventType10 event_id=74d0045d-d5cf-47bd-b1d2-029ec39764cc Event description
+[2018-02-03T13:02:06.341000+00:00 WARNING] event_type=EventType0 event_id=649f5ed9-5570-49f5-8e25-71c4b396d87e Event description
+[2018-02-03T13:02:19.519959+00:00 DEBUG  ] event_type=EventType16 event_id=4d1c986e-897b-4ab7-8752-29638b011198 Event description
+[2018-02-03T12:50:19.430087+00:00 WARNING] event_type=EventType6 event_id=cd8a8372-58ca-479a-aaae-fd8cee0796f3 Event description
+[2018-02-03T12:45:11.686105+00:00 INFO   ] event_type=EventType10 event_id=8f04c2e4-0f05-4791-9c95-754700a5fac0 Event description
+Error line
+[2018-02-03T12:50:50.357261+00:00 INFO   ] event_type=EventType4 event_id=bd0a9990-abe1-47c9-94d0-79aa043026a0 Event description
+[2018-02-03T13:23:37.067703+00:00 WARNING] event_type=EventType9 event_id=0b45e238-dfdc-49c5-8363-f4ad1e177036 Event description
+[2018-02-03T13:14:58.532388+00:00 WARNING] event_type=EventType8 event_id=69600028-5b53-47eb-b72d-313891a75e5e Event description
+[2018-02-03T13:33:47.362520+00:00 DEBUG  ] event_type=EventType3 event_id=c486b581-3a32-42c2-91b4-2995713ae3db Event description
+[2018-02-03T13:01:02.038185+00:00 WARNING] event_type=EventType17 event_id=523f11ba-8937-493f-a0b1-efc0b1f26e46 Event description
+[2018-02-03T13:04:50.469287+00:00 DEBUG  ] event_type=EventType15 event_id=634398ee-3557-4f57-930d-a870a18025d9 Event description
+Error line
+[2018-02-03T13:08:49.656117+00:00 DEBUG  ] event_type=EventType2 event_id=729b5f12-3efa-4320-88ee-78e60bf5b6c7 Event description
+[2018-02-03T12:56:43.507022+00:00 INFO   ] event_type=EventType0 event_id=d95f547c-1202-482f-812b-4fd757fa5a78 Event description
+[2018-02-03T12:41:36.804663+00:00 INFO   ] event_type=EventType11 event_id=9cdb9dc7-ad23-437a-a07c-4a08bc25cecf Event description
+[2018-02-03T13:29:11.548532+00:00 WARNING] event_type=EventType10 event_id=36b9ac32-6c72-44e1-8e97-032c1bf57998 Event description
+[2018-02-03T13:19:38.621204+00:00 WARNING] event_type=EventType16 event_id=c25b4099-655c-4114-90bf-98601b3ae418 Event description
+[2018-02-03T13:18:06.393482+00:00 WARNING] event_type=EventType10 event_id=d19d69f1-0b13-47f9-9749-5dc4fd32b90a Event description
+[2018-02-03T13:32:44.470947+00:00 WARNING] event_type=EventType2 event_id=03b383db-c0f4-46a8-95b3-0e9e36684079 Event description
+[2018-02-03T12:52:04.408315+00:00 WARNING] event_type=EventType1 event_id=fd00443c-6550-4657-9ce2-d49339aa6398 Event description
+[2018-02-03T13:07:57.979016+00:00 DEBUG  ] event_type=EventType17 event_id=bbd3a6c1-d978-4c6b-9dc7-294a62d37387 Event description
+[2018-02-03T13:06:45.930235+00:00 WARNING] event_type=EventType10 event_id=c2996972-7704-4e82-8794-aaa238367bb1 Event description
+[2018-02-03T13:15:17.116450+00:00 INFO   ] event_type=EventType19 event_id=bfc396d7-93db-43d5-9a7f-511d1278ceb3 Event description
+[2018-02-03T12:39:22.183099+00:00 INFO   ] event_type=EventType9 event_id=4ab3796d-6d8b-4887-9e01-f88bce9cf052 Event description
+Error line
+[2018-02-03T12:42:49.616509+00:00 INFO   ] event_type=EventType8 event_id=46bc7a3a-a59b-4810-8a11-471f9f11046f Event description
+[2018-02-03T12:50:56.286050+00:00 DEBUG  ] event_type=EventType13 event_id=a064613f-efa9-4fe9-96a8-1fd93f566410 Event description
+Error line
+[2018-02-03T12:59:15.608476+00:00 INFO   ] event_type=EventType9 event_id=ff2acfcd-4c9a-4973-bac2-bc0452a7700d Event description
+Error line
+[2018-02-03T13:00:12.755719+00:00 INFO   ] event_type=EventType1 event_id=be9b874b-e0d0-495a-b308-41acae51c7cb Event description
+[2018-02-03T13:24:41.076428+00:00 WARNING] event_type=EventType11 event_id=41227695-ae5e-4248-8d38-57c39f735cac Event description
+[2018-02-03T13:32:33.357177+00:00 WARNING] event_type=EventType18 event_id=cee4d5f2-76c0-4170-b452-48bdf2cfb571 Event description
+[2018-02-03T12:56:32.100192+00:00 WARNING] event_type=EventType14 event_id=e7a1d639-c242-40fc-beb7-3ac2b8085ef5 Event description
+[2018-02-03T13:20:24.576817+00:00 WARNING] event_type=EventType11 event_id=316f2388-a609-45d7-a275-2e84ea024767 Event description
+[2018-02-03T13:24:32.314000+00:00 INFO   ] event_type=EventType15 event_id=00c1ccb3-0d14-4fcd-92da-a0ee9de98dfb Event description
+[2018-02-03T13:23:33.315828+00:00 WARNING] event_type=EventType9 event_id=8159e355-149c-4dc4-8f96-1ba83f4a31ee Event description
+[2018-02-03T13:34:55.387329+00:00 INFO   ] event_type=EventType4 event_id=ce367b9d-af13-4fd3-9767-5b682e894b7c Event description
+[2018-02-03T13:25:46.158047+00:00 INFO   ] event_type=EventType9 event_id=0d295628-cb4b-4b42-b71a-ae861bf6211e Event description
+[2018-02-03T13:24:05.118335+00:00 DEBUG  ] event_type=EventType9 event_id=154875bf-e1b3-4e73-9a85-0f3bd2a1916e Event description
+[2018-02-03T12:36:56.384172+00:00 WARNING] event_type=EventType9 event_id=3c84fbb3-caaa-405b-a4f6-212efb4a75f1 Event description
+[2018-02-03T12:36:35.272440+00:00 DEBUG  ] event_type=EventType2 event_id=8a632147-e372-4e06-9bf2-8a4c1c83720a Event description
+[2018-02-03T13:32:25.832163+00:00 DEBUG  ] event_type=EventType9 event_id=08a572cc-50bd-4282-be3d-f88648177274 Event description
+[2018-02-03T13:25:05.770354+00:00 DEBUG  ] event_type=EventType5 event_id=35b4607b-8cfe-4d9f-9b1e-79dcfb1d7a6d Event description
+[2018-02-03T12:58:42.576946+00:00 DEBUG  ] event_type=EventType19 event_id=72698d56-ef81-437e-83ea-9e2606aff7a7 Event description
+[2018-02-03T13:11:49.473321+00:00 INFO   ] event_type=EventType17 event_id=6488ea95-0b37-4094-925d-d5d72319fcca Event description
+[2018-02-03T12:55:57.516938+00:00 DEBUG  ] event_type=EventType6 event_id=6c6ef9fb-91c1-45fa-bad5-909e8206b8f5 Event description
+[2018-02-03T12:36:52.906397+00:00 DEBUG  ] event_type=EventType2 event_id=5e4ebb92-0064-4465-9d84-adc79607743c Event description
+[2018-02-03T13:19:05.590118+00:00 INFO   ] event_type=EventType17 event_id=6f949b26-1ac3-410f-a63f-0aac323d6a2d Event description
+[2018-02-03T13:32:52.061327+00:00 DEBUG  ] event_type=EventType6 event_id=dd1ee090-e8b3-436d-87c6-11c62a432cc6 Event description
+[2018-02-03T13:28:28.684714+00:00 DEBUG  ] event_type=EventType9 event_id=91e05f99-ff33-4e7d-828d-d1281fdde172 Event description
+[2018-02-03T13:25:25.765857+00:00 WARNING] event_type=EventType4 event_id=b0c1d4e2-8deb-4903-9474-b874f26e99a3 Event description
+[2018-02-03T13:21:04.083040+00:00 INFO   ] event_type=EventType6 event_id=4c7a666a-f6f7-4301-a893-b839cd889cc8 Event description
+[2018-02-03T13:15:29.135015+00:00 WARNING] event_type=EventType18 event_id=206111eb-044c-4273-8935-b9bc9832d483 Event description
+Error line
+[2018-02-03T13:16:20.426599+00:00 INFO   ] event_type=EventType18 event_id=7228dcab-49f8-4b80-b7a4-a8f6db9ab566 Event description
+[2018-02-03T13:11:41.485284+00:00 DEBUG  ] event_type=EventType9 event_id=c94940ec-a87a-4ed1-a68e-65641d02152c Event description
+[2018-02-03T13:02:03.758979+00:00 WARNING] event_type=EventType15 event_id=87a82d0f-a887-4bf7-a5d3-d8f6f1840be4 Event description
+Error line
+[2018-02-03T12:39:58.311518+00:00 DEBUG  ] event_type=EventType4 event_id=178c09cc-5211-4ed7-a9b9-c97af0d46231 Event description
+[2018-02-03T13:06:30.277206+00:00 DEBUG  ] event_type=EventType5 event_id=138afb67-ebc4-4bea-a084-5f19734cd8bf Event description
+[2018-02-03T12:43:37.149403+00:00 INFO   ] event_type=EventType17 event_id=135a26c3-077a-4f83-9a4e-eca54e1c4da0 Event description
+[2018-02-03T13:04:36.005328+00:00 WARNING] event_type=EventType17 event_id=a1b58a32-eff6-49aa-960b-11b5ac117b99 Event description
+[2018-02-03T12:36:16.717206+00:00 DEBUG  ] event_type=EventType9 event_id=0d0bac66-8d2a-4dae-88ed-7605982b1eaf Event description
+[2018-02-03T13:23:13.686249+00:00 WARNING] event_type=EventType9 event_id=ef6fb8d3-af20-4be7-9a45-ac8dbaf6735f Event description
+[2018-02-03T13:28:19.908233+00:00 INFO   ] event_type=EventType17 event_id=9bea891c-d981-47f4-a8c2-6ace593e7f2d Event description
+[2018-02-03T12:58:38.788976+00:00 WARNING] event_type=EventType9 event_id=6a6517fc-cdb5-42b2-9038-3b2b24db434d Event description
+[2018-02-03T13:17:57.759323+00:00 DEBUG  ] event_type=EventType9 event_id=21f7fde1-1e3e-42a1-98b7-f4664dc77bcf Event description
+[2018-02-03T13:24:55.051282+00:00 DEBUG  ] event_type=EventType17 event_id=45ab11ae-ada4-409a-8ceb-a684f236cff0 Event description
+[2018-02-03T13:21:14.642004+00:00 WARNING] event_type=EventType14 event_id=f358aea3-f159-428f-b829-15b60e80da07 Event description
+[2018-02-03T13:28:39.273312+00:00 DEBUG  ] event_type=EventType13 event_id=7bd66cb0-c99d-4a84-ac61-dc2b81c3c1c2 Event description
+[2018-02-03T13:19:48.676650+00:00 DEBUG  ] event_type=EventType9 event_id=f386b5e7-69cf-43d0-99a8-68e0b4be72ea Event description
+Error line
+[2018-02-03T12:58:43.837571+00:00 WARNING] event_type=EventType9 event_id=abd1df51-4e2e-4248-b62a-5df13e902c4a Event description
+[2018-02-03T13:05:52.128941+00:00 WARNING] event_type=EventType2 event_id=a1abc19a-5a69-42d7-b9e0-084d322f04d6 Event description
+[2018-02-03T12:42:05.301245+00:00 INFO   ] event_type=EventType4 event_id=49f24330-4144-454a-bd12-976691336941 Event description
+Error line
+[2018-02-03T13:07:50.720764+00:00 DEBUG  ] event_type=EventType15 event_id=27cd24ca-fc18-4ae1-b321-7fd182994eb5 Event description
+[2018-02-03T12:54:08.973382+00:00 DEBUG  ] event_type=EventType12 event_id=9a8462ba-4b1f-466d-88a0-c9465754674a Event description
+[2018-02-03T13:04:40.761392+00:00 INFO   ] event_type=EventType3 event_id=812a475b-3291-4008-906f-8959c4e0583f Event description
+[2018-02-03T13:03:30.289309+00:00 INFO   ] event_type=EventType9 event_id=4c00ba81-66a3-4f79-a4dc-0c953d360c2a Event description
+[2018-02-03T12:43:42.520104+00:00 DEBUG  ] event_type=EventType12 event_id=ffe71a64-d507-4a1c-adfb-598fb574ac70 Event description
+[2018-02-03T12:54:37.180977+00:00 INFO   ] event_type=EventType9 event_id=4757f849-7da9-491a-bfbc-9c3dc95682df Event description
+[2018-02-03T12:36:03.589104+00:00 INFO   ] event_type=EventType13 event_id=5425ec5d-f694-4f5b-86ab-5b0d2004ad71 Event description
+[2018-02-03T12:57:10.509774+00:00 WARNING] event_type=EventType9 event_id=d8e68ecc-1024-4aff-a48e-abb633e5c280 Event description
+Error line
+[2018-02-03T13:11:43.790781+00:00 DEBUG  ] event_type=EventType9 event_id=6476e06e-8098-4b84-971b-d0f4948e1a1c Event description
+[2018-02-03T13:12:36.329503+00:00 DEBUG  ] event_type=EventType9 event_id=d17fe952-8c17-42e4-b661-160cb0da70e0 Event description
+[2018-02-03T13:18:24.780540+00:00 DEBUG  ] event_type=EventType0 event_id=1be4cf55-67dd-4dcb-833f-e4c24c185840 Event description
+[2018-02-03T12:53:09.758481+00:00 DEBUG  ] event_type=EventType13 event_id=1ff4916f-6a53-4f5a-b0e8-a86667483567 Event description
+[2018-02-03T12:56:35.874944+00:00 INFO   ] event_type=EventType16 event_id=0923fb83-7443-48d2-959a-d50873b12d20 Event description
+[2018-02-03T13:20:48.005904+00:00 DEBUG  ] event_type=EventType9 event_id=31296b7e-5012-4929-b21e-72ebc68e737f Event description
+[2018-02-03T13:16:41.755658+00:00 DEBUG  ] event_type=EventType11 event_id=63d57ba6-4d0b-416b-9bf6-e2b45b02526e Event description
+[2018-02-03T13:15:27.476301+00:00 WARNING] event_type=EventType8 event_id=f9c30603-997f-49b0-ab85-7355ca0eae41 Event description
+[2018-02-03T12:53:59.585311+00:00 INFO   ] event_type=EventType9 event_id=14ef4049-b0f2-46e2-9c8a-3a039ea88479 Event description
+[2018-02-03T13:32:04.305840+00:00 INFO   ] event_type=EventType13 event_id=733ae7d4-d04b-433a-ac96-e2d8109ba575 Event description
+[2018-02-03T12:53:19.108372+00:00 WARNING] event_type=EventType16 event_id=7bc09f3f-d483-4b2c-976a-1b038324be51 Event description
+[2018-02-03T12:51:28.991810+00:00 WARNING] event_type=EventType6 event_id=e3c7960c-c8c8-4bd1-8653-e2643fdad004 Event description
+[2018-02-03T12:48:12.554415+00:00 DEBUG  ] event_type=EventType14 event_id=d76fa10c-742a-4b40-84c6-a51d68577b52 Event description
+[2018-02-03T12:48:51.991162+00:00 DEBUG  ] event_type=EventType9 event_id=e5fa2172-99e0-48f2-ae96-b7d1be5f299e Event description
+[2018-02-03T12:52:48.975090+00:00 INFO   ] event_type=EventType3 event_id=92d00bf9-c8d6-48c6-939d-f1adca5a06bf Event description
+[2018-02-03T12:39:29.945460+00:00 DEBUG  ] event_type=EventType10 event_id=d8a8c5da-c457-4104-9c2e-ee9590f8f752 Event description
+[2018-02-03T12:42:58.114764+00:00 WARNING] event_type=EventType4 event_id=83f557d7-5296-434d-a7e1-a12553aa2f1b Event description
+[2018-02-03T13:24:27.943035+00:00 WARNING] event_type=EventType19 event_id=435f38d7-4c66-4cd3-aaae-1fcb6852905b Event description
+[2018-02-03T12:45:56.901683+00:00 WARNING] event_type=EventType1 event_id=f1c2a6a3-2e79-4785-92bd-f65a9457c041 Event description
+[2018-02-03T13:33:51.272537+00:00 INFO   ] event_type=EventType4 event_id=058cdfe7-bdad-406d-a1ae-2cf7c4fe8280 Event description
+[2018-02-03T12:39:12.821835+00:00 WARNING] event_type=EventType10 event_id=8c025c13-7188-4ee1-a002-0cfb96b72c10 Event description
+[2018-02-03T12:48:45.048699+00:00 WARNING] event_type=EventType0 event_id=829f0120-ec78-465c-a098-90dbe0be83bb Event description
+[2018-02-03T13:10:47.706088+00:00 DEBUG  ] event_type=EventType9 event_id=77e7cf26-bc4a-4db8-b0d3-b2fc53dbb65d Event description
+[2018-02-03T13:13:54.291225+00:00 WARNING] event_type=EventType15 event_id=7879eb67-bf7e-44e8-b60c-851e465fb849 Event description
+[2018-02-03T13:30:19.696944+00:00 DEBUG  ] event_type=EventType3 event_id=b63a2f03-8a58-47ae-b0f4-a56fbfb9455b Event description
+[2018-02-03T12:41:15.563143+00:00 DEBUG  ] event_type=EventType14 event_id=b768e396-d2ba-4b63-82a9-6cadd8157157 Event description
+[2018-02-03T13:09:27.994089+00:00 INFO   ] event_type=EventType3 event_id=f0358c34-e802-4d19-ad6f-5a948a8c08f1 Event description
+Error line
+[2018-02-03T13:20:38.828236+00:00 WARNING] event_type=EventType9 event_id=485ce348-275f-482d-baf9-2af74d3d846d Event description
+[2018-02-03T13:32:59.211257+00:00 DEBUG  ] event_type=EventType12 event_id=275d8754-3d9d-4c6e-b8ae-8190685cde9d Event description
+[2018-02-03T12:38:19.080568+00:00 INFO   ] event_type=EventType12 event_id=96f6bceb-1eb0-432d-92bb-04acdff26981 Event description
+[2018-02-03T13:30:17.260723+00:00 WARNING] event_type=EventType9 event_id=3d2e05a9-302e-4fca-ba54-6477fd14f5b2 Event description
+[2018-02-03T13:09:13.641643+00:00 INFO   ] event_type=EventType15 event_id=5da17ae1-4232-4f14-b4f3-388cd379c857 Event description
+[2018-02-03T12:37:29.177332+00:00 WARNING] event_type=EventType2 event_id=db12c75a-05a7-4160-bc3b-87d108266ef7 Event description
+[2018-02-03T13:07:51.873093+00:00 INFO   ] event_type=EventType9 event_id=e85de266-995d-447d-ae1d-e4fba64368b0 Event description
+Error line
+[2018-02-03T12:49:00.604209+00:00 WARNING] event_type=EventType3 event_id=b11846c0-4733-44c8-bf5e-37dfd76e94e8 Event description
+Error line
+[2018-02-03T12:50:26.636371+00:00 INFO   ] event_type=EventType9 event_id=ca1d2649-753f-4ce4-b99a-1e1c28c77c33 Event description
+[2018-02-03T12:36:28.550594+00:00 INFO   ] event_type=EventType10 event_id=3b639f90-1705-43c6-84c2-36d7e62ecff3 Event description
+[2018-02-03T13:00:17.497552+00:00 WARNING] event_type=EventType15 event_id=e4f2636d-263c-4857-a549-a6c23b3db74d Event description
+[2018-02-03T13:20:14.628908+00:00 WARNING] event_type=EventType2 event_id=ecb5c234-0fa8-40a3-a6f2-67d58675c15f Event description
+[2018-02-03T12:50:51.157634+00:00 INFO   ] event_type=EventType10 event_id=13c6f6e6-4ff4-438b-909a-fd18ac9a23e6 Event description
+[2018-02-03T13:09:39.944179+00:00 WARNING] event_type=EventType19 event_id=192a9315-fbf2-484e-a889-dac2e865311d Event description
+[2018-02-03T13:08:27.876932+00:00 WARNING] event_type=EventType9 event_id=35ce5f2d-b2b1-4926-82a4-c96b8c2c68f0 Event description
+[2018-02-03T12:37:35.028772+00:00 INFO   ] event_type=EventType9 event_id=006bcef4-7754-48c0-b6a7-6005b17eb5f8 Event description
+[2018-02-03T13:12:23.662769+00:00 DEBUG  ] event_type=EventType10 event_id=06a6cc72-a312-4f4e-b2d2-73ce4c439d63 Event description
+[2018-02-03T12:47:34.546288+00:00 INFO   ] event_type=EventType14 event_id=970b97e9-0600-4f0f-badf-2c4e294370df Event description
+[2018-02-03T13:05:11.493658+00:00 WARNING] event_type=EventType19 event_id=49fa4493-de27-4712-96eb-1ad5158d08d1 Event description
+[2018-02-03T13:10:37.072304+00:00 INFO   ] event_type=EventType12 event_id=8de10090-516f-497e-9acc-54580c028fde Event description
+[2018-02-03T12:37:42.450935+00:00 WARNING] event_type=EventType11 event_id=2d5e8cef-ca35-422f-a53f-c1518ab814ca Event description
+[2018-02-03T13:24:37.151222+00:00 WARNING] event_type=EventType16 event_id=d0a06ba4-44b9-44e9-9e4d-5671a9ab991e Event description
+[2018-02-03T13:26:12.332067+00:00 WARNING] event_type=EventType8 event_id=322608dc-286b-4b6b-b260-2224e008a987 Event description
+[2018-02-03T13:32:04.738595+00:00 DEBUG  ] event_type=EventType1 event_id=507b2403-cfc3-4ceb-9762-11530b765597 Event description
+[2018-02-03T13:16:43.820710+00:00 WARNING] event_type=EventType4 event_id=07f7f795-1caf-4396-8207-ed02dea27b46 Event description
+[2018-02-03T12:42:26.199670+00:00 DEBUG  ] event_type=EventType14 event_id=4d2fb18c-a293-4d3a-947a-ac4f6fd0be60 Event description
+[2018-02-03T13:13:04.664020+00:00 DEBUG  ] event_type=EventType9 event_id=bb67c857-e9b5-42ab-a380-d845e7f9c382 Event description
+[2018-02-03T13:33:55.159357+00:00 DEBUG  ] event_type=EventType9 event_id=1291ae48-c2b6-4d5f-87ef-350c0281b17d Event description
+[2018-02-03T13:12:17.451139+00:00 INFO   ] event_type=EventType14 event_id=b477c70c-53a8-44b0-a0cf-871108261084 Event description
+[2018-02-03T13:34:16.423236+00:00 DEBUG  ] event_type=EventType9 event_id=009fcf6e-d57a-41c4-98f3-a946ebd3ab66 Event description
+[2018-02-03T13:10:28.846702+00:00 DEBUG  ] event_type=EventType9 event_id=d246d09c-299b-4c81-9116-f38fc890ea01 Event description
+[2018-02-03T13:33:01.990958+00:00 INFO   ] event_type=EventType5 event_id=3c8cd16d-9237-4cab-bd37-091085261d41 Event description
+Error line
+[2018-02-03T13:06:18.368090+00:00 DEBUG  ] event_type=EventType1 event_id=3111f4c6-6cb3-4eb9-84ae-69f5044f62c5 Event description
+[2018-02-03T13:21:58.358211+00:00 DEBUG  ] event_type=EventType13 event_id=b8055e31-c6d8-4ccd-888c-39087004dacd Event description
+[2018-02-03T12:50:05.484988+00:00 INFO   ] event_type=EventType12 event_id=91dc32d9-06e7-417a-b6a7-4aa0b3f22cff Event description
+[2018-02-03T13:28:46.230151+00:00 DEBUG  ] event_type=EventType9 event_id=cbd00eb9-76eb-4dfe-9457-9c5c2257fdfd Event description
+[2018-02-03T12:43:21.199319+00:00 WARNING] event_type=EventType1 event_id=43bd5c2a-b5f5-4b18-a223-3d99cc93d33a Event description
+[2018-02-03T13:00:42.760163+00:00 DEBUG  ] event_type=EventType0 event_id=78464564-b4a2-422c-95e8-54357142589b Event description
+[2018-02-03T13:17:24.952300+00:00 DEBUG  ] event_type=EventType3 event_id=ea7b415e-d28b-4917-96e6-dec857490543 Event description
+[2018-02-03T13:24:58.328574+00:00 WARNING] event_type=EventType17 event_id=dad054b5-da83-4179-9db7-6cdec822bfbc Event description
+[2018-02-03T12:49:21.457920+00:00 INFO   ] event_type=EventType7 event_id=0944a50d-c8c3-4595-9139-abb4240ea787 Event description
+Error line
+[2018-02-03T13:31:13.606858+00:00 WARNING] event_type=EventType15 event_id=baf3d404-7db4-47a6-876c-61e3d4b24be6 Event description
+[2018-02-03T12:48:03.882005+00:00 DEBUG  ] event_type=EventType10 event_id=8ef08f09-78d9-4d00-b28c-4b25d0905e44 Event description
+[2018-02-03T12:39:01.903721+00:00 WARNING] event_type=EventType7 event_id=30628fa8-4aab-4857-b9a7-167777678b8b Event description
+[2018-02-03T13:30:26.587490+00:00 INFO   ] event_type=EventType17 event_id=43878080-bab3-46bf-998f-7673c94be542 Event description
+[2018-02-03T12:35:46.397543+00:00 WARNING] event_type=EventType12 event_id=a4e61ef6-f75b-4b23-be51-8c0bd1b037fa Event description
+Error line
+[2018-02-03T13:29:54.385856+00:00 INFO   ] event_type=EventType9 event_id=9a8904c5-e878-4e24-ba30-32339b2c6526 Event description
+[2018-02-03T12:51:49.305372+00:00 WARNING] event_type=EventType3 event_id=344cccfe-3228-44fa-9ae8-68bbd106510d Event description
+[2018-02-03T13:30:17.197247+00:00 DEBUG  ] event_type=EventType7 event_id=3bfeae54-b5c4-4df8-8a34-95d6d208a7c3 Event description
+[2018-02-03T13:26:52.698284+00:00 DEBUG  ] event_type=EventType1 event_id=3b97015e-d7b8-4dc2-8ede-fa9a84722395 Event description
+[2018-02-03T12:41:15.392722+00:00 DEBUG  ] event_type=EventType14 event_id=badce973-b443-4f99-90ea-3db67e3675ca Event description
+[2018-02-03T13:14:26.587650+00:00 INFO   ] event_type=EventType5 event_id=819c4e58-1bbf-4334-a453-a584aefb5111 Event description
+[2018-02-03T12:56:08.877339+00:00 INFO   ] event_type=EventType5 event_id=44913608-5c5e-42f1-b9e1-95a17c5cb7f6 Event description
+[2018-02-03T12:56:30.859106+00:00 WARNING] event_type=EventType13 event_id=0baa3ffe-8c21-4063-ab56-9ecce2e62a4e Event description
+[2018-02-03T12:46:38.738625+00:00 WARNING] event_type=EventType9 event_id=f53839be-3614-4900-bdf6-67edf56d38fd Event description
+[2018-02-03T13:26:49.278022+00:00 DEBUG  ] event_type=EventType13 event_id=397cabc4-151c-4ff2-9c8d-092208ff272a Event description
+[2018-02-03T12:40:24.203731+00:00 INFO   ] event_type=EventType1 event_id=c70243bc-9517-4577-a974-b8899f35d8cc Event description
+[2018-02-03T13:07:14.649899+00:00 INFO   ] event_type=EventType7 event_id=d99a5822-029d-4b3d-aa69-55be03f9ea20 Event description
+[2018-02-03T12:54:44.363377+00:00 WARNING] event_type=EventType5 event_id=f2ec5462-c534-4945-af67-6db94da42c93 Event description
+[2018-02-03T13:25:33.226857+00:00 DEBUG  ] event_type=EventType12 event_id=850dbd69-7be9-4afc-b81e-15f2919561f6 Event description
+[2018-02-03T12:57:53.602021+00:00 WARNING] event_type=EventType5 event_id=ee0180a8-d5ac-42d0-bf87-66a7acc4ac98 Event description
+[2018-02-03T13:18:11.334148+00:00 WARNING] event_type=EventType4 event_id=73653152-2684-4346-ae1a-7676e15ea8dc Event description
+[2018-02-03T13:23:00.195927+00:00 INFO   ] event_type=EventType0 event_id=09c5c810-d7b3-42f0-a351-bf39ea1dca46 Event description
+Error line
+[2018-02-03T12:54:26.624057+00:00 DEBUG  ] event_type=EventType12 event_id=4e8de356-2d0f-44ed-b070-2efba17f93c5 Event description
+[2018-02-03T13:06:26.068958+00:00 INFO   ] event_type=EventType0 event_id=546439d6-7267-4927-a1c7-0fb5c9b023e7 Event description
+[2018-02-03T13:12:57.712170+00:00 INFO   ] event_type=EventType18 event_id=cc7b20b9-fbb6-4502-9a27-e8fdbd9eb39e Event description
+[2018-02-03T12:48:57.496470+00:00 INFO   ] event_type=EventType2 event_id=493c417d-5ab3-4dc0-9c35-b5b4047abdb4 Event description
+[2018-02-03T13:24:30.175851+00:00 WARNING] event_type=EventType3 event_id=8cc6a8ab-ef06-452e-97bd-d2c3a470ae77 Event description
+[2018-02-03T12:37:24.694304+00:00 WARNING] event_type=EventType16 event_id=05fcbdcd-607a-40d8-bab9-d35b3e5469b1 Event description
+[2018-02-03T13:33:49.225062+00:00 WARNING] event_type=EventType16 event_id=feff4988-569a-4130-a762-7915672d2727 Event description
+[2018-02-03T13:10:32.551444+00:00 DEBUG  ] event_type=EventType1 event_id=d5281784-e237-4a88-b13f-d3a465ddc3ab Event description
+[2018-02-03T12:50:51.431817+00:00 INFO   ] event_type=EventType9 event_id=174f134c-dbb2-48b6-98e1-8369ba71c31b Event description
+[2018-02-03T12:40:24.960885+00:00 WARNING] event_type=EventType15 event_id=5dd6ca47-5935-4009-a92c-c8fb182a1b71 Event description
+[2018-02-03T12:54:45.296046+00:00 INFO   ] event_type=EventType10 event_id=6eba10a2-fcdb-4658-99d6-ac9ad81ec2c8 Event description
+[2018-02-03T13:19:53.339492+00:00 INFO   ] event_type=EventType9 event_id=b31d0de1-fbef-4d11-818e-9ebc8fed68c7 Event description
+[2018-02-03T13:12:28.006494+00:00 INFO   ] event_type=EventType9 event_id=a5d32bbc-5e7d-485a-8eef-cd11b62616d5 Event description
+[2018-02-03T13:07:28.044494+00:00 WARNING] event_type=EventType3 event_id=48af0f29-5f86-4794-8e1b-b08e8d63390c Event description
+[2018-02-03T12:54:28.376099+00:00 WARNING] event_type=EventType4 event_id=3222eefb-9050-4dae-92ff-9978a0062310 Event description
+[2018-02-03T13:13:17.398629+00:00 DEBUG  ] event_type=EventType12 event_id=fd264540-da0e-4377-a3f2-f124b012f5fb Event description
+[2018-02-03T12:55:25.689542+00:00 INFO   ] event_type=EventType14 event_id=c20e8a61-6eed-49e3-bac2-9afa1e64278e Event description
+Error line
+[2018-02-03T13:15:45.145638+00:00 INFO   ] event_type=EventType11 event_id=1ee744e3-11c6-4250-a316-5c24e2dba810 Event description
+[2018-02-03T12:45:22.547780+00:00 DEBUG  ] event_type=EventType13 event_id=947fc41d-a823-415a-8fe6-af40b1549450 Event description
+[2018-02-03T12:46:56.534429+00:00 INFO   ] event_type=EventType11 event_id=90be25b1-df9b-4726-b2a2-62cd8f6ba8ed Event description
+[2018-02-03T13:09:17.586109+00:00 WARNING] event_type=EventType9 event_id=c6d49c7b-e9ad-40a5-9e88-cfd2fec4f872 Event description
+Error line
+[2018-02-03T13:06:51.656026+00:00 WARNING] event_type=EventType10 event_id=e1d340f6-2a58-4915-9d21-3260814fdf1b Event description
+[2018-02-03T12:39:12.448234+00:00 DEBUG  ] event_type=EventType13 event_id=22cb7055-d8aa-4247-82a0-913b3cb543e2 Event description
+[2018-02-03T12:56:32.130975+00:00 INFO   ] event_type=EventType14 event_id=ca78d69d-170c-405b-a1df-9918be597fe6 Event description
+Error line
+[2018-02-03T13:24:31.775915+00:00 INFO   ] event_type=EventType16 event_id=c6498b5b-55ef-4648-9709-e6c2101c4cd3 Event description
+[2018-02-03T13:33:51.303006+00:00 INFO   ] event_type=EventType8 event_id=6c221e5b-306c-4407-ac71-72f10c92850e Event description
+[2018-02-03T12:46:59.061933+00:00 INFO   ] event_type=EventType13 event_id=86f71a52-fad1-4d4e-9dc5-39b9fc30f919 Event description
+[2018-02-03T12:58:34.797690+00:00 WARNING] event_type=EventType5 event_id=75aeadb0-710e-44e0-9b56-4d1cb0080f74 Event description
+[2018-02-03T13:29:39.771803+00:00 INFO   ] event_type=EventType9 event_id=2730c9dc-d3d1-4745-82a5-1c4052e25648 Event description
+[2018-02-03T12:42:24.530843+00:00 WARNING] event_type=EventType9 event_id=73e16ab9-fb79-4418-904d-58060bbf11f0 Event description
+[2018-02-03T13:33:32.299048+00:00 DEBUG  ] event_type=EventType19 event_id=abe1387a-a776-4423-87b8-f4b05486728d Event description
+Error line
+[2018-02-03T13:05:24.941728+00:00 INFO   ] event_type=EventType9 event_id=b3431e04-0ac8-477d-8619-b2ec7745aae3 Event description
+[2018-02-03T12:36:24.052001+00:00 DEBUG  ] event_type=EventType6 event_id=d394865d-079c-45ce-b8c0-a9ccede0a73f Event description
+[2018-02-03T12:39:45.303866+00:00 DEBUG  ] event_type=EventType9 event_id=f2acb859-7f98-4bb1-9d74-8d2626a5f0dd Event description
+[2018-02-03T13:00:19.232656+00:00 WARNING] event_type=EventType9 event_id=2b3e089d-aa7d-43ec-82cd-bdfd84a2e7b4 Event description
+[2018-02-03T12:56:16.959199+00:00 INFO   ] event_type=EventType10 event_id=c1f6cead-4d11-4cd2-b9b8-ba34a49667e2 Event description
+[2018-02-03T13:33:56.711742+00:00 WARNING] event_type=EventType14 event_id=213c5a9f-eeaf-4f0e-9cea-f9849c20f6d8 Event description
+[2018-02-03T13:29:51.616136+00:00 DEBUG  ] event_type=EventType9 event_id=fbdd617b-bd8e-44d1-bf8b-2df219eea7df Event description
+[2018-02-03T12:37:45.662193+00:00 INFO   ] event_type=EventType9 event_id=8a358250-d5a2-4edf-9fb6-bc939f0faaaf Event description
+[2018-02-03T13:04:27.915696+00:00 DEBUG  ] event_type=EventType9 event_id=b25d9d79-f39a-4316-a481-7ab12573ab5f Event description
+[2018-02-03T12:58:51.573853+00:00 INFO   ] event_type=EventType10 event_id=fe74bb4b-06f5-4546-9175-5da483683d70 Event description
+[2018-02-03T12:42:37.642870+00:00 INFO   ] event_type=EventType0 event_id=3c2d7a54-0dc0-4745-973c-80326073be55 Event description
+[2018-02-03T13:08:06.559954+00:00 DEBUG  ] event_type=EventType10 event_id=aa177fab-5bf2-4797-8bca-baeab7044575 Event description
+[2018-02-03T12:37:15.197898+00:00 DEBUG  ] event_type=EventType7 event_id=53ad0714-54e8-46b2-8adf-71185c5e202f Event description
+[2018-02-03T12:58:57.847782+00:00 INFO   ] event_type=EventType14 event_id=be53e9ed-43ce-42e9-9154-c61d684d7839 Event description
+[2018-02-03T13:16:22.546105+00:00 DEBUG  ] event_type=EventType15 event_id=89aefa6b-5f84-421a-96cd-a5e6ab02f346 Event description
+[2018-02-03T12:42:45.643019+00:00 DEBUG  ] event_type=EventType4 event_id=d3b9d02e-acbd-426d-b56e-5844a4d6f206 Event description
+[2018-02-03T13:14:05.552532+00:00 INFO   ] event_type=EventType19 event_id=2e22ec95-f8ff-4418-b945-4ac8e10a52f5 Event description
+[2018-02-03T12:47:15.976041+00:00 DEBUG  ] event_type=EventType17 event_id=8c151748-e60a-4d7b-979c-6eacc2e59716 Event description
+[2018-02-03T12:38:54.645848+00:00 DEBUG  ] event_type=EventType14 event_id=3b0e95d8-277e-48dc-b96c-fd7fa34460ac Event description
+Error line
+[2018-02-03T12:56:09.877629+00:00 INFO   ] event_type=EventType14 event_id=70ce745a-66c2-4b04-9c31-8a1efa6a9891 Event description
+[2018-02-03T12:56:54.732616+00:00 WARNING] event_type=EventType0 event_id=34934356-a82b-4151-975f-700bbf89a377 Event description
+Error line
+[2018-02-03T13:09:21.196926+00:00 WARNING] event_type=EventType16 event_id=a9017ce7-b502-4d7f-99ca-f65f0a06043a Event description
+[2018-02-03T13:28:49.094612+00:00 DEBUG  ] event_type=EventType7 event_id=d4ae5389-d1f1-4eed-807f-686f9a5a3cea Event description
+[2018-02-03T13:29:59.032723+00:00 INFO   ] event_type=EventType3 event_id=a895ffce-4412-4852-84d7-4318a0ff4024 Event description
+[2018-02-03T13:12:51.700253+00:00 WARNING] event_type=EventType9 event_id=322252cf-124c-4b4f-a58d-c3cb16b5f784 Event description
+[2018-02-03T12:41:33.402928+00:00 DEBUG  ] event_type=EventType16 event_id=0f6cc171-1fd4-41e7-9ac1-8e3b3d4cabed Event description
+[2018-02-03T13:30:37.179051+00:00 WARNING] event_type=EventType9 event_id=19574fdb-bafc-4599-9fb0-796bf3d433b6 Event description
+[2018-02-03T12:52:26.562675+00:00 DEBUG  ] event_type=EventType9 event_id=f2116c63-1c2a-48bb-9e41-20bb08dd83bf Event description
+[2018-02-03T13:15:13.843565+00:00 WARNING] event_type=EventType1 event_id=df6ef7bd-1e8c-464d-8f31-e40bd50bb6d9 Event description
+[2018-02-03T13:01:46.850362+00:00 DEBUG  ] event_type=EventType14 event_id=81884d58-1f1d-4b67-8378-0af0161c4283 Event description
+[2018-02-03T12:40:51.139782+00:00 WARNING] event_type=EventType16 event_id=3b555bb3-7b95-499e-8e3e-965d35a5d0cb Event description
+[2018-02-03T13:19:45.949323+00:00 WARNING] event_type=EventType0 event_id=f3aac940-bce9-4b45-aa11-3c5d8e806bb7 Event description
+[2018-02-03T13:01:44.402408+00:00 INFO   ] event_type=EventType16 event_id=00840a79-79ad-4c6f-b8db-de1ffcb3fee4 Event description
+[2018-02-03T13:14:34.575781+00:00 INFO   ] event_type=EventType8 event_id=9d40ef4f-ce6b-46a1-bb2f-67bb35c57897 Event description
+Error line
+[2018-02-03T13:23:37.781981+00:00 DEBUG  ] event_type=EventType15 event_id=efb28519-ecf6-4841-b90e-6a3765a4623d Event description
+[2018-02-03T13:23:21.009569+00:00 INFO   ] event_type=EventType10 event_id=3410f3a0-85bd-4a48-a81c-e177cb93adbd Event description
+[2018-02-03T13:01:48.511552+00:00 WARNING] event_type=EventType11 event_id=4d31369f-1bec-4d0d-8831-f05f185dadaf Event description
+[2018-02-03T13:18:54.401174+00:00 INFO   ] event_type=EventType16 event_id=4637ab16-1625-40ae-b22d-956435c02108 Event description
+[2018-02-03T13:00:42.991685+00:00 DEBUG  ] event_type=EventType1 event_id=fe17296e-58c7-41a5-b6f6-22b38be7049f Event description
+[2018-02-03T12:51:25.871387+00:00 WARNING] event_type=EventType14 event_id=e383d1e9-dd48-49ad-be8d-1c75c002bebf Event description
+[2018-02-03T13:33:50.102269+00:00 INFO   ] event_type=EventType15 event_id=da75ffaa-391e-47f5-9d8e-46f7017aadc7 Event description
+[2018-02-03T12:56:18.115840+00:00 WARNING] event_type=EventType17 event_id=8cf1d0b6-7afb-46eb-b50e-42212b2a4e0e Event description
+[2018-02-03T13:00:35.776501+00:00 INFO   ] event_type=EventType19 event_id=8aa3345c-dde8-4af7-84b2-cdc29430e14f Event description
+[2018-02-03T13:27:56.452595+00:00 WARNING] event_type=EventType1 event_id=3b2ca772-3471-4e1e-83ab-5636376d452c Event description
+[2018-02-03T13:20:40.604154+00:00 INFO   ] event_type=EventType18 event_id=f2b4f66c-238e-47a6-b317-0a54143f005b Event description
+[2018-02-03T12:38:25.051234+00:00 DEBUG  ] event_type=EventType9 event_id=38b147cf-7f16-4b27-bca8-5e852f4188f9 Event description
+[2018-02-03T13:18:36.304834+00:00 INFO   ] event_type=EventType0 event_id=479a5680-4a74-4dfa-b29b-6d5c22513098 Event description
+[2018-02-03T13:11:49.973496+00:00 DEBUG  ] event_type=EventType6 event_id=a53eb33b-47d0-42c6-81f7-ac92894bbad6 Event description
+[2018-02-03T13:33:51.529880+00:00 WARNING] event_type=EventType18 event_id=d156efe8-0831-42e4-9aad-c05c7728b4a5 Event description
+[2018-02-03T13:05:20.081295+00:00 INFO   ] event_type=EventType9 event_id=926fac91-aa32-419a-b7da-1b31e131cba5 Event description
+[2018-02-03T13:24:20.961855+00:00 INFO   ] event_type=EventType9 event_id=bb30265f-260a-4dd4-8533-38c092fb9063 Event description
+[2018-02-03T13:22:55.328289+00:00 INFO   ] event_type=EventType15 event_id=7008d39d-4e28-42c9-b30d-e242bdb7928f Event description
+[2018-02-03T13:09:08.348850+00:00 WARNING] event_type=EventType9 event_id=a3b68170-0f99-4f4f-b25f-31ab12995cf3 Event description
+[2018-02-03T12:48:21.346553+00:00 WARNING] event_type=EventType4 event_id=23fe9b16-f864-4fe8-a7ce-69ff6ab1bd25 Event description
+[2018-02-03T13:02:39.358661+00:00 INFO   ] event_type=EventType13 event_id=00ba005a-86f5-4c73-bc37-0fd06893545c Event description
+[2018-02-03T12:35:43.964138+00:00 WARNING] event_type=EventType18 event_id=557e1fae-d752-472c-9d56-49dea3a413be Event description
+[2018-02-03T13:33:39.667811+00:00 WARNING] event_type=EventType17 event_id=6b659d83-731d-44c3-93d9-fa92e9379656 Event description
+[2018-02-03T12:50:04.369382+00:00 INFO   ] event_type=EventType9 event_id=b0e1262c-7b56-4315-b6c9-922c0cdc74a5 Event description
+[2018-02-03T13:31:26.400146+00:00 DEBUG  ] event_type=EventType9 event_id=d015bc6b-19ce-48b8-914b-fb95dfb20c42 Event description
+[2018-02-03T12:59:47.865614+00:00 WARNING] event_type=EventType17 event_id=e9ccad78-de72-4806-b66d-c6fbfb165bf6 Event description
+[2018-02-03T12:57:39.367961+00:00 DEBUG  ] event_type=EventType5 event_id=3b19f541-26d4-4133-8f97-ee589b4b17d7 Event description
+[2018-02-03T13:24:07.777411+00:00 INFO   ] event_type=EventType8 event_id=cdaf3230-e196-48dd-9786-8c80c9693627 Event description
+[2018-02-03T13:01:38.659790+00:00 DEBUG  ] event_type=EventType18 event_id=cdd9b821-6d02-4bdf-93ca-cd7675903a08 Event description
+[2018-02-03T12:53:26.195051+00:00 DEBUG  ] event_type=EventType9 event_id=6c6ae1d8-d146-4086-b838-6e158bc48c3b Event description
+[2018-02-03T12:52:45.621301+00:00 WARNING] event_type=EventType3 event_id=00dbabb8-bdba-4976-be3b-d299e04b5e0d Event description
+[2018-02-03T12:54:57.848375+00:00 INFO   ] event_type=EventType5 event_id=3bbdf0b6-6d95-462b-b61e-16b719e293de Event description
+[2018-02-03T12:54:45.757937+00:00 INFO   ] event_type=EventType3 event_id=5f4b9f88-76ae-4c39-bc87-528967f5ae78 Event description
+[2018-02-03T12:55:54.902275+00:00 INFO   ] event_type=EventType11 event_id=76091c5b-39be-4165-9c4f-e4421a25efed Event description
+[2018-02-03T12:54:18.338714+00:00 DEBUG  ] event_type=EventType6 event_id=f84e502a-11f9-44ec-89d9-ec9360e85455 Event description
+[2018-02-03T12:46:36.052632+00:00 INFO   ] event_type=EventType18 event_id=a0304945-f36c-4abe-a49f-9cfe8c0cbaf8 Event description
+[2018-02-03T13:09:13.261097+00:00 WARNING] event_type=EventType12 event_id=8583b62d-2f3b-48af-ad00-dc9370ba4416 Event description
+[2018-02-03T13:17:04.479495+00:00 WARNING] event_type=EventType3 event_id=34f095a8-5f8f-4cd4-b653-890b67032746 Event description
+[2018-02-03T12:54:44.089370+00:00 INFO   ] event_type=EventType1 event_id=8334717b-c50d-4862-bb00-decf7a31e295 Event description
+[2018-02-03T12:44:30.807489+00:00 WARNING] event_type=EventType16 event_id=9c57a1b7-f555-41fe-9fa9-44c4eec97f51 Event description
+[2018-02-03T13:12:25.729807+00:00 INFO   ] event_type=EventType0 event_id=868056bf-a92f-48f9-b739-0b54bab9fb3f Event description
+[2018-02-03T13:16:56.705631+00:00 DEBUG  ] event_type=EventType19 event_id=d31e7ff5-4c77-4c59-8d22-6bf05084b8b0 Event description
+[2018-02-03T13:20:18.686631+00:00 INFO   ] event_type=EventType4 event_id=eea61ee9-f028-4325-ad4a-e0dedebad457 Event description
+[2018-02-03T13:15:22.024240+00:00 WARNING] event_type=EventType8 event_id=1213ffdb-724b-4bd2-9866-7ca3dc65a943 Event description
+[2018-02-03T13:23:12.953509+00:00 DEBUG  ] event_type=EventType16 event_id=5ee2851d-127a-4f57-b9cb-38ebc8ab4a83 Event description
+[2018-02-03T13:07:28.963503+00:00 WARNING] event_type=EventType10 event_id=7a036e80-39bc-49e6-8ef1-18fafb2aa20e Event description
+[2018-02-03T13:35:24.507746+00:00 WARNING] event_type=EventType4 event_id=17672955-04f5-40b2-9d0b-69cc184b8552 Event description
+[2018-02-03T12:41:13.477099+00:00 WARNING] event_type=EventType0 event_id=e2a1cb6b-0191-4c35-b694-21319c59c8e8 Event description
+[2018-02-03T13:14:54.497642+00:00 DEBUG  ] event_type=EventType4 event_id=78f411b1-41be-4b70-b1ac-9290edc21c7c Event description
+[2018-02-03T12:48:53.191653+00:00 WARNING] event_type=EventType18 event_id=9c9db654-f6fd-4eb3-a389-040174152ebf Event description
+[2018-02-03T12:52:25.233859+00:00 INFO   ] event_type=EventType1 event_id=ec7bfb6e-1fdb-41a2-bb3d-0b5ffa47e1f0 Event description
+[2018-02-03T13:03:44.862303+00:00 INFO   ] event_type=EventType5 event_id=9e1da542-b14d-4ca8-a905-a43a923bec51 Event description
+[2018-02-03T12:59:22.247345+00:00 WARNING] event_type=EventType1 event_id=564b8940-5065-48e0-91fb-d1520db6dc9d Event description
+[2018-02-03T13:11:21.745123+00:00 INFO   ] event_type=EventType11 event_id=c0154de3-51a2-4775-a584-e472c1634cd2 Event description
+[2018-02-03T13:11:19.781297+00:00 DEBUG  ] event_type=EventType9 event_id=4468c947-23f1-45b8-a0df-85a25335bcdc Event description
+[2018-02-03T13:05:11.268167+00:00 DEBUG  ] event_type=EventType18 event_id=c2768a76-37c9-4d5a-83f1-028f42882ed4 Event description
+[2018-02-03T13:29:56.627425+00:00 WARNING] event_type=EventType2 event_id=6d2b778d-9f9d-436c-90f9-e217f7292d24 Event description
+[2018-02-03T13:25:50.899132+00:00 WARNING] event_type=EventType18 event_id=1f187c70-28fa-44dd-814f-add219af0259 Event description
+[2018-02-03T12:41:41.788105+00:00 WARNING] event_type=EventType18 event_id=03cdf549-a94c-46a2-8890-b8fc32d145ba Event description
+[2018-02-03T12:47:17.405860+00:00 INFO   ] event_type=EventType0 event_id=37177171-f292-42d5-bd97-aeefb70d1aa4 Event description
+[2018-02-03T13:34:40.576320+00:00 INFO   ] event_type=EventType9 event_id=ff762c3b-d92c-48d1-ae44-9a20b764055b Event description
+[2018-02-03T13:05:58.828968+00:00 INFO   ] event_type=EventType4 event_id=4d096109-372c-4af3-96fc-892dee770258 Event description
+[2018-02-03T12:39:14.950769+00:00 INFO   ] event_type=EventType9 event_id=58ddab90-9e98-4f2e-b698-5888b3c54b4e Event description
+[2018-02-03T13:02:16.339532+00:00 DEBUG  ] event_type=EventType4 event_id=0ec53e4c-1a6b-4a94-a973-a97a8ab0ba0a Event description
+[2018-02-03T13:12:27.662142+00:00 WARNING] event_type=EventType18 event_id=4e6bb21c-6aac-4daa-ba46-355db815465d Event description
+[2018-02-03T13:18:50.666420+00:00 DEBUG  ] event_type=EventType14 event_id=53d7a4ec-eade-4487-bc60-375bcaca4fa8 Event description
+[2018-02-03T13:07:22.988788+00:00 INFO   ] event_type=EventType4 event_id=2d594857-c36e-4b16-9176-3afdf7d18f98 Event description
+[2018-02-03T13:14:04.014602+00:00 INFO   ] event_type=EventType9 event_id=8c4d5dcc-c217-4194-9bb1-9e5efa8f86e9 Event description
+Error line
+[2018-02-03T13:19:47.654041+00:00 DEBUG  ] event_type=EventType9 event_id=c24c258c-1ae8-4c29-ac66-498908290c2a Event description
+[2018-02-03T13:32:00.642521+00:00 INFO   ] event_type=EventType18 event_id=aefd7783-e9e2-4c28-9409-d5d885013c50 Event description
+[2018-02-03T12:47:58.635570+00:00 WARNING] event_type=EventType0 event_id=389874bc-6e6b-4418-9096-5b406fd18590 Event description
+[2018-02-03T13:07:50.711686+00:00 DEBUG  ] event_type=EventType11 event_id=3bd85199-a613-4b96-9298-2a887fd294b1 Event description
+[2018-02-03T13:22:56.023391+00:00 WARNING] event_type=EventType4 event_id=95570dd4-bdf4-4d77-9139-d81194417282 Event description
+Error line
+[2018-02-03T13:27:44.963119+00:00 DEBUG  ] event_type=EventType12 event_id=049fd16a-dfce-4c01-9ee8-a742d2c8f999 Event description
+[2018-02-03T13:30:47.419085+00:00 DEBUG  ] event_type=EventType9 event_id=659bf700-f85b-4dab-9466-ab324b8b9303 Event description
+[2018-02-03T13:05:10.161712+00:00 WARNING] event_type=EventType9 event_id=cfc0c4e4-fd0d-4a9f-bb75-a0ec7d6869fb Event description
+[2018-02-03T13:01:33.674430+00:00 INFO   ] event_type=EventType14 event_id=1c3393ed-787a-42de-bef9-b8471e28c1ee Event description
+[2018-02-03T12:59:30.968273+00:00 DEBUG  ] event_type=EventType7 event_id=14db9eb9-04be-42a8-9d36-0a731bd43aac Event description
+[2018-02-03T13:30:11.786601+00:00 INFO   ] event_type=EventType8 event_id=e16eea28-f6f7-4d96-a14c-4ad9761d60e4 Event description
+[2018-02-03T12:51:06.045911+00:00 WARNING] event_type=EventType16 event_id=872af5f9-f7bf-4ea0-a597-0e7b9fce9a7c Event description
+[2018-02-03T13:20:19.263505+00:00 DEBUG  ] event_type=EventType18 event_id=300d7f96-e019-4f1e-bb63-6ff2e2c759fb Event description
+[2018-02-03T13:32:54.874417+00:00 INFO   ] event_type=EventType14 event_id=d9b4d8c2-a743-423b-916c-8d3750a5f834 Event description
+Error line
+[2018-02-03T13:22:25.873639+00:00 INFO   ] event_type=EventType3 event_id=cafa84e2-acf9-4e2d-b1c5-249cf72a7ac6 Event description
+[2018-02-03T13:03:51.928065+00:00 DEBUG  ] event_type=EventType0 event_id=0501899a-91b8-4949-86fa-bed0aad48476 Event description
+[2018-02-03T12:43:05.297697+00:00 INFO   ] event_type=EventType12 event_id=46f61748-6caf-45b1-a6dc-794805d18809 Event description
+[2018-02-03T13:32:05.621982+00:00 WARNING] event_type=EventType8 event_id=a3f6d009-cab9-4794-8a2c-7f0290096318 Event description
+[2018-02-03T13:15:20.870097+00:00 WARNING] event_type=EventType19 event_id=4e8c796c-5c7f-49c5-8e74-3ca44f084f07 Event description
+[2018-02-03T12:48:47.481893+00:00 INFO   ] event_type=EventType19 event_id=6d3693b2-88f9-4569-a6a1-fa6bf59471a2 Event description
+[2018-02-03T13:29:39.701261+00:00 DEBUG  ] event_type=EventType6 event_id=78e9916f-1e38-43ab-8013-9b449b391e7f Event description
+[2018-02-03T13:23:32.850211+00:00 INFO   ] event_type=EventType9 event_id=99133e25-a9c3-4b7a-a779-c438cd72ab8f Event description
+Error line
+[2018-02-03T13:26:33.421015+00:00 DEBUG  ] event_type=EventType9 event_id=2fc4fde9-73f9-480d-9a51-07292be3d09a Event description
+[2018-02-03T13:16:25.264738+00:00 INFO   ] event_type=EventType17 event_id=65e760dc-4203-451e-82b7-abee85082551 Event description
+[2018-02-03T12:54:35.514175+00:00 WARNING] event_type=EventType4 event_id=84416f3e-482c-4900-87fc-135ffd9f8964 Event description
+[2018-02-03T12:46:55.397753+00:00 DEBUG  ] event_type=EventType19 event_id=087c6dab-038a-472a-8d93-821f3135bfcb Event description
+[2018-02-03T12:57:49.956732+00:00 WARNING] event_type=EventType0 event_id=e879ce47-1b37-4d99-b0b0-df892c38633b Event description
+Error line
+[2018-02-03T13:25:28.983458+00:00 INFO   ] event_type=EventType4 event_id=65011737-76bd-41a6-a313-7f0a07978f19 Event description
+[2018-02-03T12:45:17.992520+00:00 INFO   ] event_type=EventType19 event_id=969e8dbd-915f-4ead-be60-75771b7160a8 Event description
+[2018-02-03T12:44:31.426450+00:00 WARNING] event_type=EventType9 event_id=28ec1e8a-26fc-4fa3-8bcc-c5528c420e49 Event description
+[2018-02-03T13:24:55.739679+00:00 DEBUG  ] event_type=EventType7 event_id=76ced612-7aa1-45e4-b2b7-0d2bb708be72 Event description
+[2018-02-03T12:50:51.831656+00:00 INFO   ] event_type=EventType11 event_id=121b92b7-84cd-47b8-b067-d1303eb8ff22 Event description
+[2018-02-03T12:55:55.439279+00:00 DEBUG  ] event_type=EventType5 event_id=9c2927aa-1cdd-420a-aeff-f8d739a70df5 Event description
+[2018-02-03T12:43:39.119168+00:00 DEBUG  ] event_type=EventType11 event_id=b1ed8930-d008-45aa-8297-32e8c7ef37f6 Event description
+[2018-02-03T12:37:11.800583+00:00 INFO   ] event_type=EventType15 event_id=a503e594-2e46-4b2c-8de5-209a6d8f7c46 Event description
+[2018-02-03T12:35:59.046639+00:00 DEBUG  ] event_type=EventType9 event_id=f7c8d3ef-cc3b-4b22-aa76-792edf27d4ea Event description
+[2018-02-03T13:28:43.652354+00:00 WARNING] event_type=EventType0 event_id=cbd4a70d-59c6-4ec3-b1fe-bb6e2356b7a6 Event description
+Error line
+[2018-02-03T13:02:00.852536+00:00 DEBUG  ] event_type=EventType18 event_id=06a3fbaf-0cb2-4aff-a960-6befe00ca92f Event description
+[2018-02-03T12:57:11.877111+00:00 WARNING] event_type=EventType9 event_id=e8e84569-1bbf-4b59-b475-20f92376f332 Event description
+[2018-02-03T12:37:38.243187+00:00 WARNING] event_type=EventType6 event_id=3be34b7c-0b45-474a-a1e8-c75458e78979 Event description
+[2018-02-03T13:29:08.823488+00:00 INFO   ] event_type=EventType12 event_id=4c819038-3b0b-4ded-ba2c-a969e431aadf Event description
+[2018-02-03T12:58:18.454890+00:00 WARNING] event_type=EventType9 event_id=ccd83fdf-3dd4-4fef-b26b-6cf30d075edb Event description
+Error line
+[2018-02-03T12:55:10.534683+00:00 DEBUG  ] event_type=EventType19 event_id=c67bbad6-f8df-4850-a4d5-a0a7807d294d Event description
+[2018-02-03T13:08:38.423485+00:00 DEBUG  ] event_type=EventType15 event_id=a658f146-5046-46c9-8afa-efd01392d550 Event description
+[2018-02-03T13:16:51.099645+00:00 DEBUG  ] event_type=EventType11 event_id=91179567-11cd-4b70-a88e-e4bb191ada14 Event description
+[2018-02-03T13:19:06.961223+00:00 DEBUG  ] event_type=EventType9 event_id=ab3ca33d-9c5f-4fb8-826a-8de0992156e2 Event description
+[2018-02-03T12:54:13.096096+00:00 INFO   ] event_type=EventType10 event_id=86d00e81-229d-40f5-9d97-6f1552d687e6 Event description
+[2018-02-03T12:47:19.211060+00:00 DEBUG  ] event_type=EventType7 event_id=f7a98032-13f4-4911-b779-8ad54e04bc70 Event description
+[2018-02-03T13:11:43.768998+00:00 WARNING] event_type=EventType14 event_id=85bb9de8-800d-4a01-9091-614f3e76bba5 Event description
+[2018-02-03T13:04:15.625452+00:00 WARNING] event_type=EventType13 event_id=902a8dc2-f130-4d74-9e79-97d7bd9275fa Event description
+[2018-02-03T13:21:18.632864+00:00 DEBUG  ] event_type=EventType7 event_id=f89b184d-8efb-4899-b0c5-0040d65a1e2e Event description
+[2018-02-03T13:29:16.967622+00:00 INFO   ] event_type=EventType13 event_id=efde1376-833a-4fa9-9ee8-086c16b8f59d Event description
+[2018-02-03T13:09:05.963989+00:00 INFO   ] event_type=EventType8 event_id=6dd7ea35-19bf-436a-9685-aca53554a35c Event description
+[2018-02-03T13:00:58.569558+00:00 WARNING] event_type=EventType6 event_id=402bb1ee-8a17-4015-8a02-9d047302a04b Event description
+[2018-02-03T13:19:41.097000+00:00 DEBUG  ] event_type=EventType15 event_id=4f63c0b4-8ffd-4ca7-a22d-8af36ba4e3b1 Event description
+[2018-02-03T12:42:37.934942+00:00 WARNING] event_type=EventType9 event_id=a744cceb-5521-4e0e-9df1-4c9d9db46b6f Event description
+[2018-02-03T13:06:14.810455+00:00 WARNING] event_type=EventType2 event_id=e2800793-ef7f-470a-a11c-a24b3f45802e Event description
+[2018-02-03T13:31:05.034860+00:00 WARNING] event_type=EventType11 event_id=c022e4ff-b1c4-4c96-bca6-9ee37a081170 Event description
+[2018-02-03T13:34:02.548357+00:00 DEBUG  ] event_type=EventType18 event_id=35a3e18e-189b-4049-9cde-568929a73d53 Event description
+[2018-02-03T13:21:48.037266+00:00 DEBUG  ] event_type=EventType9 event_id=58971c3c-5f18-4344-9401-0ce7989db377 Event description
+[2018-02-03T12:47:42.687878+00:00 DEBUG  ] event_type=EventType9 event_id=dba10c14-cc46-4684-8e17-63f74d072352 Event description
+[2018-02-03T13:35:20.112998+00:00 WARNING] event_type=EventType5 event_id=1328f2fc-3d6f-4aa8-b928-200ec507b4a5 Event description
+[2018-02-03T12:44:02.825827+00:00 INFO   ] event_type=EventType1 event_id=27a1de30-cbe6-4a93-813a-31237bff7643 Event description
+[2018-02-03T12:43:15.688776+00:00 DEBUG  ] event_type=EventType9 event_id=c00fce90-3c05-4ee6-8a32-3d90afc31108 Event description
+[2018-02-03T13:14:08.592340+00:00 DEBUG  ] event_type=EventType7 event_id=629568bf-8de0-44ae-90d5-d19a4672e1d6 Event description
+Error line
+[2018-02-03T13:05:22.543977+00:00 INFO   ] event_type=EventType12 event_id=46180424-38b4-475f-bcef-dfb376924dd2 Event description
+[2018-02-03T12:42:35.909302+00:00 WARNING] event_type=EventType12 event_id=3ed74a16-0c67-44d8-9ba4-379f5084aa7e Event description
+[2018-02-03T12:50:10.276642+00:00 WARNING] event_type=EventType11 event_id=63cfaa60-47f7-4cd3-ab0c-a8a20b55d1ce Event description
+[2018-02-03T12:42:49.426726+00:00 INFO   ] event_type=EventType9 event_id=4e89baa8-dc57-4f09-a7f8-e887ffe6d55e Event description
+[2018-02-03T12:53:00.193136+00:00 DEBUG  ] event_type=EventType15 event_id=bf721c15-d2a3-44ff-9ca2-11961140a3ed Event description
+[2018-02-03T12:45:02.246549+00:00 DEBUG  ] event_type=EventType7 event_id=043f2406-ef5f-4e75-81e6-bb189e2d2281 Event description
+[2018-02-03T13:34:27.814902+00:00 WARNING] event_type=EventType5 event_id=ae85e4b1-16f5-4aca-8b2b-eb3029cfbe47 Event description
+[2018-02-03T12:55:46.690369+00:00 INFO   ] event_type=EventType13 event_id=8f2ebf7e-586d-4b12-b308-83934f5e73d3 Event description
+[2018-02-03T13:15:10.244642+00:00 DEBUG  ] event_type=EventType13 event_id=59c3131b-3066-4bfe-b77f-fa31b89e5c0d Event description
+[2018-02-03T13:02:19.618791+00:00 INFO   ] event_type=EventType13 event_id=d741e0b6-8436-414c-a5f7-78ba113ec44e Event description
+[2018-02-03T12:42:26.311570+00:00 DEBUG  ] event_type=EventType7 event_id=71721b8f-f7f0-4bfc-aac4-1560e30c5662 Event description
+[2018-02-03T13:27:49.011668+00:00 DEBUG  ] event_type=EventType6 event_id=0a82bac0-5533-437d-b771-8fa05f207fab Event description
+[2018-02-03T12:50:19.258592+00:00 DEBUG  ] event_type=EventType8 event_id=8d98748f-bf7f-4812-a150-a4f892db084c Event description
+[2018-02-03T13:28:22.161817+00:00 INFO   ] event_type=EventType9 event_id=50fa61e1-632d-4bb9-9ad1-a47f22dfe5d8 Event description
+[2018-02-03T13:32:12.964456+00:00 DEBUG  ] event_type=EventType9 event_id=090367c6-c8fc-49ee-aa2c-8698c8b42a9e Event description
+[2018-02-03T12:38:32.242495+00:00 WARNING] event_type=EventType6 event_id=6500c99e-8f01-452d-b096-ef832d46a6a3 Event description
+[2018-02-03T13:19:05.116548+00:00 DEBUG  ] event_type=EventType6 event_id=ab644ef0-3b56-4feb-bd40-ff103e45d121 Event description
+[2018-02-03T13:23:56.503052+00:00 DEBUG  ] event_type=EventType8 event_id=2240ad2e-91ec-4c41-94df-6e5b7d32a5f6 Event description
+[2018-02-03T13:35:41.853722+00:00 DEBUG  ] event_type=EventType19 event_id=ba3b2920-6374-49a5-b55d-c8980b68210b Event description
+[2018-02-03T12:56:59.109347+00:00 DEBUG  ] event_type=EventType11 event_id=d5b88b8f-5cc8-42d2-9e6c-e232c5197547 Event description
+[2018-02-03T13:14:58.104368+00:00 WARNING] event_type=EventType6 event_id=81b0fc62-3d88-4fae-9c24-21b1fa6c4c54 Event description
+[2018-02-03T13:21:53.375880+00:00 WARNING] event_type=EventType18 event_id=c71942e8-a513-4fea-b006-613414202e0d Event description
+[2018-02-03T13:13:58.721406+00:00 WARNING] event_type=EventType9 event_id=e5c5c064-3abe-4304-a4b1-83c3f4b08b31 Event description
+Error line
+[2018-02-03T12:46:23.996355+00:00 WARNING] event_type=EventType8 event_id=e8d5f026-2bd8-4af1-8424-cf4e8a27a41d Event description
+[2018-02-03T12:48:22.128355+00:00 DEBUG  ] event_type=EventType13 event_id=79b37b56-4776-44b3-8eea-fd5effd94772 Event description
+[2018-02-03T13:11:06.208074+00:00 DEBUG  ] event_type=EventType3 event_id=aa994afb-ee8b-48f4-8758-37a2ab521694 Event description
+[2018-02-03T12:37:55.397086+00:00 INFO   ] event_type=EventType5 event_id=a3906cb1-fa99-4d37-90ea-b843c2e5836d Event description
+[2018-02-03T13:15:02.568070+00:00 DEBUG  ] event_type=EventType7 event_id=62d96521-8174-4271-92d4-a9a7c165ae93 Event description
+[2018-02-03T12:54:36.148723+00:00 INFO   ] event_type=EventType1 event_id=7ee959db-9719-4c29-bbd8-ec7c6cbb96ea Event description
+[2018-02-03T13:21:22.610750+00:00 DEBUG  ] event_type=EventType16 event_id=12b46fcf-6eec-4d83-88b6-ee451f840173 Event description
+[2018-02-03T13:33:23.210981+00:00 INFO   ] event_type=EventType9 event_id=9b8b33bf-f9cb-4a46-9ecc-bdaccdaca2f4 Event description
+[2018-02-03T13:14:15.135290+00:00 DEBUG  ] event_type=EventType19 event_id=7e3c7be3-0195-4d82-bff9-5eab50bae158 Event description
+Error line
+[2018-02-03T13:14:07.409869+00:00 DEBUG  ] event_type=EventType11 event_id=b0a54faa-2bb0-4a08-af48-8357d7bd3cf2 Event description
+Error line
+[2018-02-03T13:00:58.012994+00:00 DEBUG  ] event_type=EventType19 event_id=ef6a9142-db9a-415a-bc93-1798249c4950 Event description
+[2018-02-03T13:05:57.824747+00:00 DEBUG  ] event_type=EventType19 event_id=1d46cb6e-2be0-46ce-99f6-185d561c7a8f Event description
+[2018-02-03T12:37:37.330979+00:00 WARNING] event_type=EventType7 event_id=f2216c05-0be4-4b8c-a0d3-a69fce6be53a Event description
+[2018-02-03T12:45:29.972722+00:00 INFO   ] event_type=EventType7 event_id=257ed720-2ecd-4885-a7b9-b08726924206 Event description
+[2018-02-03T13:19:52.081917+00:00 DEBUG  ] event_type=EventType12 event_id=1b878d82-b166-43f4-9c25-79d4a0a7aa45 Event description
+[2018-02-03T12:50:34.761067+00:00 DEBUG  ] event_type=EventType4 event_id=cde2a17e-57d8-4831-8a0a-29bbf5b440c4 Event description
+[2018-02-03T13:12:27.340342+00:00 INFO   ] event_type=EventType9 event_id=e36273e5-5c96-4fc6-ba27-d43ac7596ea6 Event description
+[2018-02-03T12:59:40.871813+00:00 DEBUG  ] event_type=EventType16 event_id=ec15d5c9-70b9-4caf-bac6-26497a0fb5fa Event description
+[2018-02-03T12:48:51.955468+00:00 WARNING] event_type=EventType6 event_id=f96fa04b-f5c6-4faa-bb33-fdc6caa2a59c Event description
+[2018-02-03T13:21:17.975798+00:00 DEBUG  ] event_type=EventType3 event_id=eb687b24-7971-4859-90f7-209ebe976c4d Event description
+[2018-02-03T13:24:38.630535+00:00 INFO   ] event_type=EventType1 event_id=4298523a-01ec-4df9-9d69-4042d7d4b065 Event description
+[2018-02-03T12:44:04.253784+00:00 INFO   ] event_type=EventType8 event_id=80adf6c3-63f4-4f09-a308-90a37542eb7b Event description
+[2018-02-03T12:38:58.548705+00:00 WARNING] event_type=EventType0 event_id=770e145d-2f72-42a7-8a3f-9febe9a724d5 Event description
+[2018-02-03T13:11:47.387842+00:00 WARNING] event_type=EventType17 event_id=7c0aa629-22ed-4b31-96a3-276ccd0792a9 Event description
+Error line
+[2018-02-03T13:20:03.210305+00:00 WARNING] event_type=EventType17 event_id=740512e5-84b4-4e2c-9063-d844f4bef4a6 Event description
+[2018-02-03T12:46:53.091694+00:00 DEBUG  ] event_type=EventType5 event_id=152028be-eb0d-4498-9df2-15f44bff52f2 Event description
+[2018-02-03T13:18:10.831600+00:00 INFO   ] event_type=EventType11 event_id=8b3fb13a-4a37-41d3-8faa-9ae3edbac0fe Event description
+[2018-02-03T13:09:09.775235+00:00 DEBUG  ] event_type=EventType19 event_id=7c7dcda8-ba1e-4558-b04e-8ec0008d34c4 Event description
+[2018-02-03T13:01:44.077829+00:00 INFO   ] event_type=EventType9 event_id=bc8fa1b5-ba61-417f-946f-9fd6679b38a7 Event description
+[2018-02-03T12:35:53.167984+00:00 WARNING] event_type=EventType12 event_id=bdbcc0d3-d5af-4604-8dfa-04a2e9273123 Event description
+[2018-02-03T12:50:09.341071+00:00 INFO   ] event_type=EventType4 event_id=a6e54ecb-05fe-4a49-bf4e-5422da578bc9 Event description
+[2018-02-03T12:51:10.957026+00:00 DEBUG  ] event_type=EventType9 event_id=5a3fef3b-8301-4b60-9608-4dc057b9d96a Event description
+Error line
+[2018-02-03T12:52:10.190439+00:00 DEBUG  ] event_type=EventType17 event_id=7bd00eb0-2ab0-4c39-a897-8af4c0055391 Event description
+[2018-02-03T13:29:49.594129+00:00 DEBUG  ] event_type=EventType9 event_id=2b596954-a34d-413c-886b-527e71750d20 Event description
+[2018-02-03T12:41:24.815306+00:00 DEBUG  ] event_type=EventType5 event_id=a8cd03c3-f7c6-4b85-af05-4705262bcec4 Event description
+[2018-02-03T13:30:25.085154+00:00 DEBUG  ] event_type=EventType15 event_id=95f5998e-3d6e-4e14-b24e-4f296a73bff8 Event description
+[2018-02-03T12:52:15.584135+00:00 INFO   ] event_type=EventType16 event_id=d017512d-54e6-4e5b-ab7d-5c9c8e73ca47 Event description
+[2018-02-03T13:14:13.575040+00:00 WARNING] event_type=EventType4 event_id=077132fb-5305-49ec-8fd8-9a02637ce4d2 Event description
+[2018-02-03T12:37:10.727349+00:00 DEBUG  ] event_type=EventType7 event_id=e4b12721-2554-44d0-99a0-ca141bff3648 Event description
+[2018-02-03T13:31:00.545082+00:00 WARNING] event_type=EventType2 event_id=3e14804d-b430-4864-acec-16463dc61fb6 Event description
+[2018-02-03T12:50:15.175480+00:00 INFO   ] event_type=EventType5 event_id=aa9a7483-4af7-432c-b15d-c866b4ecc83f Event description
+[2018-02-03T12:37:45.012224+00:00 WARNING] event_type=EventType9 event_id=b88f570b-0d14-488a-bf21-a0bf565ec672 Event description
+[2018-02-03T13:27:14.631725+00:00 DEBUG  ] event_type=EventType10 event_id=0e6d6269-21a4-405f-8473-55ca1f57a750 Event description
+[2018-02-03T13:24:57.088899+00:00 WARNING] event_type=EventType7 event_id=166cab53-32b3-4c1b-8877-54c5a27bb949 Event description
+[2018-02-03T13:14:06.435339+00:00 WARNING] event_type=EventType12 event_id=ef033fe8-e809-4fd9-99b5-7b099f730cda Event description
+[2018-02-03T13:33:15.423508+00:00 DEBUG  ] event_type=EventType14 event_id=e5553805-1d51-4465-80cd-cf402d14faff Event description
+[2018-02-03T13:10:59.638687+00:00 DEBUG  ] event_type=EventType12 event_id=327232e4-7e01-445f-90a8-bb63b4eec444 Event description
+[2018-02-03T12:59:40.953178+00:00 INFO   ] event_type=EventType17 event_id=8f9b6fc3-ff4b-4860-bfef-3f2e6cc79b26 Event description
+[2018-02-03T13:00:24.849498+00:00 WARNING] event_type=EventType5 event_id=6536215e-cece-48b6-b8de-02b1d561c854 Event description
+[2018-02-03T12:57:40.645781+00:00 INFO   ] event_type=EventType6 event_id=c6490cc6-d5a7-4b9e-9d0f-4780c750ee31 Event description
+Error line
+[2018-02-03T13:26:14.282387+00:00 DEBUG  ] event_type=EventType3 event_id=0b3d182a-c597-4cf6-b153-19321e57c1ae Event description
+[2018-02-03T12:57:04.201168+00:00 WARNING] event_type=EventType19 event_id=35517a00-98d9-4aaf-9d19-6d2f1a8e54b6 Event description
+[2018-02-03T13:05:01.196212+00:00 INFO   ] event_type=EventType18 event_id=5bff241f-2f51-4342-a19f-88f87cf7abbf Event description
+[2018-02-03T13:31:51.066771+00:00 INFO   ] event_type=EventType15 event_id=94adb33d-ce99-4b9f-b95c-a0bc22f6e3b5 Event description
+[2018-02-03T12:55:07.800685+00:00 DEBUG  ] event_type=EventType3 event_id=009973b1-f82a-4e15-bde5-99a3bc36fe4a Event description
+[2018-02-03T12:55:21.628278+00:00 WARNING] event_type=EventType4 event_id=633fee08-a48a-4c93-9e46-070f987f6e7b Event description
+[2018-02-03T13:05:06.928151+00:00 DEBUG  ] event_type=EventType9 event_id=47af9f2c-98c8-47f3-b078-c0d8c5e9c33e Event description
+[2018-02-03T12:58:23.820741+00:00 WARNING] event_type=EventType11 event_id=b5058b80-d26d-4dfa-8e6c-fc039a57f13b Event description
+[2018-02-03T13:12:20.456983+00:00 WARNING] event_type=EventType4 event_id=43bfafe1-6a47-4051-b996-e0e271ec7426 Event description
+[2018-02-03T13:21:41.152570+00:00 WARNING] event_type=EventType13 event_id=f2ac7380-c3cd-4032-bf7d-a55ab29ab36e Event description
+[2018-02-03T13:07:20.247726+00:00 INFO   ] event_type=EventType19 event_id=bb5d33e3-2160-4c0f-88a4-3fa2c8564767 Event description
+[2018-02-03T12:59:49.588365+00:00 DEBUG  ] event_type=EventType1 event_id=f843915e-66ed-4f2d-bd87-9eb4e7e65acc Event description
+[2018-02-03T13:19:45.842833+00:00 DEBUG  ] event_type=EventType9 event_id=274db76a-2db0-43ef-8af6-0a72fa38f718 Event description
+[2018-02-03T12:56:29.226037+00:00 DEBUG  ] event_type=EventType9 event_id=1f65fc82-9aa3-421c-adcd-d21943ffb66d Event description
+[2018-02-03T13:01:23.845795+00:00 DEBUG  ] event_type=EventType17 event_id=03af34e4-435e-423a-953a-2a4a9badf807 Event description
+[2018-02-03T12:41:13.274382+00:00 DEBUG  ] event_type=EventType6 event_id=f059ff00-4841-4afb-8637-38fb3ab15ee4 Event description
+[2018-02-03T12:37:33.219074+00:00 WARNING] event_type=EventType13 event_id=93ff962e-2503-4af8-8611-d6766d045413 Event description
+[2018-02-03T12:39:53.666104+00:00 DEBUG  ] event_type=EventType13 event_id=053ad236-f1f7-4808-bb93-6c94d23a0d48 Event description
+[2018-02-03T13:07:53.457894+00:00 WARNING] event_type=EventType12 event_id=c4f20d76-b29f-4cb7-8abb-06d1d7133688 Event description
+[2018-02-03T13:00:38.167566+00:00 WARNING] event_type=EventType0 event_id=593b3510-a0d9-4991-a8f4-2e3a2b5c1fa8 Event description
+Error line
+[2018-02-03T13:14:00.565629+00:00 DEBUG  ] event_type=EventType9 event_id=97eb823c-3f01-4f75-88bb-0a2d22737d8d Event description
+[2018-02-03T13:08:28.243042+00:00 INFO   ] event_type=EventType1 event_id=8544ce01-37b3-41a0-977d-b50499af58c1 Event description
+[2018-02-03T12:52:19.406419+00:00 WARNING] event_type=EventType13 event_id=c4159f15-98d0-4989-a7a8-e052009d173b Event description
+[2018-02-03T13:12:28.571601+00:00 DEBUG  ] event_type=EventType14 event_id=ee096281-35d5-47a0-9fa4-a80a617c058d Event description
+[2018-02-03T13:22:18.772311+00:00 DEBUG  ] event_type=EventType4 event_id=05c3363c-69f3-4c3a-88ca-5ed180dce78b Event description
+[2018-02-03T13:00:45.008921+00:00 DEBUG  ] event_type=EventType13 event_id=c689efc5-75b8-4ab5-b97a-13c627da3b11 Event description
+[2018-02-03T12:58:17.673368+00:00 DEBUG  ] event_type=EventType16 event_id=7df89dc1-f25a-4112-8c54-42ac9097c7fd Event description
+[2018-02-03T12:38:31.414027+00:00 DEBUG  ] event_type=EventType14 event_id=041eb40a-bb0b-4bb6-8d80-4e3791606d11 Event description
+[2018-02-03T13:05:08.620400+00:00 DEBUG  ] event_type=EventType10 event_id=f78ad374-52f0-4574-92b1-4678fc13cf46 Event description
+[2018-02-03T13:11:51.219064+00:00 DEBUG  ] event_type=EventType8 event_id=b26d9521-c498-4ef0-8482-6f22d1b1bf27 Event description
+[2018-02-03T12:44:52.584154+00:00 INFO   ] event_type=EventType18 event_id=5e1f91e5-33ba-48d3-aaa4-ef083a5f126c Event description
+[2018-02-03T12:53:04.094903+00:00 INFO   ] event_type=EventType17 event_id=e7e4a9c3-916b-4654-a4b3-71cbba57068a Event description
+[2018-02-03T13:27:55.999769+00:00 INFO   ] event_type=EventType1 event_id=da179174-bce3-49f9-8253-82e05a2fad80 Event description
+[2018-02-03T13:31:21.524807+00:00 DEBUG  ] event_type=EventType18 event_id=5d386393-b41e-4962-8990-20cd8bf5bf1b Event description
+Error line
+[2018-02-03T13:33:32.707571+00:00 INFO   ] event_type=EventType4 event_id=a0e321f1-6e7b-4cdf-a0b5-562896735857 Event description
+[2018-02-03T13:19:52.013383+00:00 WARNING] event_type=EventType18 event_id=261b1da8-83b7-4906-b01a-88015f31124d Event description
+Error line
+[2018-02-03T13:24:52.523766+00:00 INFO   ] event_type=EventType15 event_id=af3b32cd-2670-4e32-b491-07460639f194 Event description
+[2018-02-03T12:40:37.034843+00:00 INFO   ] event_type=EventType0 event_id=66582f0f-b949-49c3-a5a2-8eb67e5b4ceb Event description
+[2018-02-03T12:55:28.221480+00:00 DEBUG  ] event_type=EventType9 event_id=bd1d2239-3010-4ff6-9383-878f5c7a80f4 Event description
+[2018-02-03T12:51:53.844904+00:00 WARNING] event_type=EventType7 event_id=4890de0a-bd59-42f7-8b53-3f283aa5e217 Event description
+[2018-02-03T13:24:31.930760+00:00 WARNING] event_type=EventType9 event_id=34306165-0452-40c4-a760-b3e02194ab94 Event description
+[2018-02-03T12:50:20.006621+00:00 INFO   ] event_type=EventType13 event_id=01595bf2-48e1-4231-81a8-0111e701b717 Event description
+[2018-02-03T13:09:33.427230+00:00 INFO   ] event_type=EventType19 event_id=138d58ae-d9ca-4fb3-87ff-bf96a87b8167 Event description
+[2018-02-03T13:06:29.067672+00:00 INFO   ] event_type=EventType1 event_id=4673acec-b1d4-4fed-b9ea-55f9ee1835ba Event description
+[2018-02-03T12:38:20.328416+00:00 WARNING] event_type=EventType1 event_id=5ddd2f2b-3995-4a04-b1c9-9f16d5d0d20a Event description
+[2018-02-03T12:49:14.160741+00:00 WARNING] event_type=EventType11 event_id=288a7bb5-d7a6-47c4-9d12-1a7c0eef9ca1 Event description
+[2018-02-03T13:10:04.363715+00:00 DEBUG  ] event_type=EventType9 event_id=486fbcd5-ea4c-4493-b77f-ad0ff0bf8161 Event description
+[2018-02-03T12:45:32.261420+00:00 DEBUG  ] event_type=EventType0 event_id=513259aa-6132-4309-91d4-42e8ced99e77 Event description
+[2018-02-03T12:56:00.950817+00:00 DEBUG  ] event_type=EventType2 event_id=d92af82c-9b97-449c-a92a-6f89f88af9d6 Event description
+[2018-02-03T12:56:32.019155+00:00 DEBUG  ] event_type=EventType18 event_id=322a62ac-93ee-4319-bb12-694033c61675 Event description
+[2018-02-03T13:20:36.141995+00:00 DEBUG  ] event_type=EventType9 event_id=83fcc8cc-6149-4637-956e-4eb8b3d078f0 Event description
+[2018-02-03T12:53:37.867838+00:00 INFO   ] event_type=EventType19 event_id=b6753649-99dd-4813-97cb-093671b6b1ad Event description
+[2018-02-03T13:00:11.765927+00:00 INFO   ] event_type=EventType9 event_id=5378fd30-50c7-42c4-a237-cf2b683a9daf Event description
+[2018-02-03T13:27:46.045156+00:00 INFO   ] event_type=EventType17 event_id=c08e3b1a-3921-4f35-bec8-0b92a0b878b7 Event description
+Error line
+[2018-02-03T13:05:09.693275+00:00 WARNING] event_type=EventType14 event_id=34472c88-9394-4f31-8b7c-ea044ebf21fa Event description
+[2018-02-03T12:38:06.607262+00:00 DEBUG  ] event_type=EventType12 event_id=b79d8489-0a53-4dbd-81c4-7b1e7e8f622f Event description
+[2018-02-03T12:56:24.651929+00:00 INFO   ] event_type=EventType2 event_id=a3092229-957f-49ca-b8e0-df03016edfb5 Event description
+[2018-02-03T12:49:10.706271+00:00 WARNING] event_type=EventType5 event_id=89fdc4fc-22f1-47fc-9ff2-7646167553b5 Event description
+[2018-02-03T12:44:26.418998+00:00 INFO   ] event_type=EventType15 event_id=4ee99d4d-4888-42ae-aeb6-893603d86b4d Event description
+[2018-02-03T13:23:41.868913+00:00 INFO   ] event_type=EventType7 event_id=c6686197-5559-43ff-9e9a-c941a5b3de4d Event description
+[2018-02-03T13:15:04.841604+00:00 DEBUG  ] event_type=EventType18 event_id=b365235d-1f1d-48ce-829b-c278288ee0e8 Event description
+[2018-02-03T12:53:45.468629+00:00 DEBUG  ] event_type=EventType6 event_id=20a551e9-c647-484e-8555-3ce467f7b9b6 Event description
+[2018-02-03T13:17:16.847566+00:00 INFO   ] event_type=EventType0 event_id=0666024f-9e08-4bf1-93dd-2fc4e8c10538 Event description
+[2018-02-03T13:17:16.358162+00:00 WARNING] event_type=EventType4 event_id=9daf1539-132d-430f-8b53-e26bc8e89978 Event description
+[2018-02-03T13:31:03.100661+00:00 WARNING] event_type=EventType8 event_id=0a7458d0-dc16-4495-be3d-e3f4c9f6f223 Event description
+[2018-02-03T13:20:18.431802+00:00 WARNING] event_type=EventType9 event_id=d390072e-cdd2-4605-b006-2a8124276d89 Event description
+[2018-02-03T13:17:56.944531+00:00 INFO   ] event_type=EventType17 event_id=e074d1c2-ebf7-44cf-8657-98d7b1a42360 Event description
+[2018-02-03T13:11:34.477714+00:00 INFO   ] event_type=EventType9 event_id=1ed248f2-9125-4ec0-b55c-79ff92a6ac36 Event description
+[2018-02-03T12:57:03.186708+00:00 WARNING] event_type=EventType5 event_id=dfe72553-5a23-4885-b88e-941823ce4385 Event description
+[2018-02-03T13:12:06.255076+00:00 INFO   ] event_type=EventType1 event_id=85fe20ef-04a0-46f5-a0bc-fd3944d60ff4 Event description
+[2018-02-03T12:53:23.037521+00:00 WARNING] event_type=EventType9 event_id=88013769-d2c9-46ee-b790-843a06e57499 Event description
+[2018-02-03T13:02:14.458775+00:00 DEBUG  ] event_type=EventType6 event_id=7cdebe3c-0eec-4a8d-905c-e1f3ab9bc11f Event description
+[2018-02-03T13:13:38.522469+00:00 DEBUG  ] event_type=EventType8 event_id=d3e56bc9-daec-4101-b76c-79b8402cb3c5 Event description
+[2018-02-03T12:55:51.673558+00:00 WARNING] event_type=EventType7 event_id=e02d5c82-8208-421f-8ac9-f251060c005b Event description
+[2018-02-03T13:24:01.951307+00:00 DEBUG  ] event_type=EventType17 event_id=2f777d9a-3020-4b78-9ccd-915381d3c674 Event description
+[2018-02-03T13:28:24.301585+00:00 INFO   ] event_type=EventType3 event_id=84f9c4e0-7c0d-4f4b-84fa-c55ed411b269 Event description
+[2018-02-03T13:06:49.043708+00:00 DEBUG  ] event_type=EventType9 event_id=eb3c4c9f-7e6a-4654-ac1b-09a7b0e9a7ec Event description
+[2018-02-03T12:55:57.089352+00:00 DEBUG  ] event_type=EventType8 event_id=68436627-4ee9-45f7-91aa-725ec1691410 Event description
+[2018-02-03T12:35:47.112313+00:00 DEBUG  ] event_type=EventType19 event_id=04660bab-6825-42fc-a36f-e6456325746d Event description
+[2018-02-03T13:20:21.378328+00:00 INFO   ] event_type=EventType17 event_id=e957be5f-06dc-4c1e-a074-765bc368e9e6 Event description
+[2018-02-03T12:53:03.573279+00:00 INFO   ] event_type=EventType7 event_id=4c83fa8b-ecd6-483a-88d8-0bc9026b52e2 Event description
+[2018-02-03T12:54:25.025987+00:00 INFO   ] event_type=EventType10 event_id=62272e2c-2b33-4bff-8b71-ab2ffa61ac32 Event description
+[2018-02-03T12:37:43.424255+00:00 WARNING] event_type=EventType9 event_id=b82157ce-d675-4d94-b495-36cb4cca1dec Event description
+[2018-02-03T13:10:04.406287+00:00 WARNING] event_type=EventType13 event_id=2970ac90-53d0-408c-998a-386d21b4c436 Event description
+[2018-02-03T12:47:30.129469+00:00 INFO   ] event_type=EventType13 event_id=adb7ff81-f05b-4284-a1c7-451ab08f569d Event description
+[2018-02-03T13:25:14.484427+00:00 DEBUG  ] event_type=EventType11 event_id=30c33ce9-387b-4271-8504-61252a377c47 Event description
+[2018-02-03T13:15:33.483717+00:00 DEBUG  ] event_type=EventType10 event_id=d73d3575-d1b3-44eb-b5f2-08743ff42970 Event description
+[2018-02-03T12:44:16.628596+00:00 INFO   ] event_type=EventType9 event_id=8dcacafb-1e0d-4328-b21e-33561e816622 Event description
+[2018-02-03T12:40:46.411275+00:00 INFO   ] event_type=EventType10 event_id=94a61829-c374-4132-9490-7f73181c63e8 Event description
+[2018-02-03T12:45:15.822508+00:00 DEBUG  ] event_type=EventType17 event_id=6deb791e-cec8-4234-b1fc-fd9f364026fb Event description
+[2018-02-03T13:08:49.030991+00:00 WARNING] event_type=EventType17 event_id=e44d91a8-7518-4e46-be2e-1bdb5f8e6806 Event description
+[2018-02-03T13:07:21.613020+00:00 WARNING] event_type=EventType8 event_id=3cb48c5e-2eea-4433-a67a-2218f774930b Event description
+[2018-02-03T12:58:50.322747+00:00 DEBUG  ] event_type=EventType2 event_id=e6125644-9824-4d4f-9efb-ce1d0e0eba2a Event description
+[2018-02-03T13:06:57.584195+00:00 WARNING] event_type=EventType0 event_id=370f1311-d745-45df-824b-90d66baf67f4 Event description
+[2018-02-03T13:28:19.889922+00:00 WARNING] event_type=EventType18 event_id=0ce541d1-5ac7-4004-aa10-619cd0222769 Event description
+[2018-02-03T13:29:38.720246+00:00 WARNING] event_type=EventType12 event_id=31c22f26-396f-4606-8112-804c173e3b44 Event description
+[2018-02-03T13:13:26.067736+00:00 INFO   ] event_type=EventType13 event_id=54cf1c8f-e277-4c1d-aca2-bc7c9a3eb93f Event description
+[2018-02-03T12:53:19.999599+00:00 WARNING] event_type=EventType14 event_id=3ceaff7f-4af0-4765-9ef6-0b6f85b136c4 Event description
+Error line
+[2018-02-03T12:55:21.585721+00:00 WARNING] event_type=EventType3 event_id=e34e2814-28a0-472d-81ea-75f066987a22 Event description
+Error line
+[2018-02-03T13:25:40.814366+00:00 INFO   ] event_type=EventType13 event_id=9552c292-3199-4428-ba87-5d9d8b0a9e28 Event description
+[2018-02-03T13:33:35.124122+00:00 INFO   ] event_type=EventType1 event_id=a96ade07-9eb3-4785-b399-927af98edf73 Event description
+[2018-02-03T12:58:45.920363+00:00 INFO   ] event_type=EventType13 event_id=305313fe-54bf-4c89-bf85-3aad097b621c Event description
+[2018-02-03T13:02:32.642435+00:00 INFO   ] event_type=EventType5 event_id=e1948838-04ee-4549-b283-e0f7e5201ec5 Event description
+[2018-02-03T12:47:02.952101+00:00 DEBUG  ] event_type=EventType1 event_id=023994cc-026e-4c76-99a6-1d2709f03068 Event description
+Error line
+[2018-02-03T12:56:15.247987+00:00 WARNING] event_type=EventType2 event_id=c9588a5c-397b-4997-b9cf-01376a2fcf04 Event description
+[2018-02-03T13:23:34.989149+00:00 DEBUG  ] event_type=EventType2 event_id=4fc09f3d-fdb2-44eb-b341-d6022e60467a Event description
+[2018-02-03T13:17:17.500652+00:00 WARNING] event_type=EventType19 event_id=44646a1e-5606-4435-a128-d6eb84ddbc49 Event description
+[2018-02-03T13:09:43.398602+00:00 INFO   ] event_type=EventType9 event_id=9e530265-2c7a-4e21-bff8-4600dd17d78c Event description
+[2018-02-03T12:56:09.478276+00:00 DEBUG  ] event_type=EventType9 event_id=ac9bb9f7-c428-4817-9d70-5d5ad542047d Event description
+[2018-02-03T12:51:34.658075+00:00 WARNING] event_type=EventType2 event_id=2bbef7de-31c4-4ca5-a9f2-4dff3b69be3c Event description
+[2018-02-03T13:09:02.459368+00:00 DEBUG  ] event_type=EventType1 event_id=676c5812-7f0a-46f1-8cc3-a620e64be482 Event description
+[2018-02-03T12:39:55.607254+00:00 WARNING] event_type=EventType9 event_id=0ea6ca56-324c-4ecf-8d2a-c70b9c7f411b Event description
+[2018-02-03T12:57:28.568108+00:00 DEBUG  ] event_type=EventType3 event_id=bf885e9c-b1f0-41b4-b559-644a822c3df3 Event description
+[2018-02-03T13:10:58.386099+00:00 INFO   ] event_type=EventType12 event_id=82fca8c7-97af-46bd-b4a0-bd7537d9625b Event description
+[2018-02-03T12:44:59.965600+00:00 WARNING] event_type=EventType9 event_id=b100e8cc-13d5-4063-b69e-f747c9cc9367 Event description
+Error line
+[2018-02-03T13:26:09.879353+00:00 WARNING] event_type=EventType13 event_id=2534fd07-c408-4335-82bf-38cc79ea4844 Event description
+[2018-02-03T13:28:32.899562+00:00 DEBUG  ] event_type=EventType18 event_id=2d6bc84d-1c2c-4ec4-bcff-c7136df91e8c Event description
+[2018-02-03T13:20:05.210409+00:00 DEBUG  ] event_type=EventType0 event_id=8605cd35-c9e8-4dea-8500-73693520f832 Event description
+Error line
+[2018-02-03T13:06:29.427213+00:00 WARNING] event_type=EventType0 event_id=a8c0f3e0-4453-4694-bcec-162bdd7fca20 Event description
+[2018-02-03T13:32:11.622952+00:00 WARNING] event_type=EventType9 event_id=67454372-eca7-412d-8097-433c36c52411 Event description
+[2018-02-03T12:53:50.931938+00:00 DEBUG  ] event_type=EventType15 event_id=2a27bfd1-613d-4187-bdab-7e999102bd0e Event description
+[2018-02-03T13:24:45.582463+00:00 WARNING] event_type=EventType2 event_id=1a651acd-b342-4f09-810c-c38f3682a682 Event description
+[2018-02-03T13:04:47.081598+00:00 WARNING] event_type=EventType11 event_id=a40fd7c8-db97-4200-84bf-8c22c1690bbe Event description
+[2018-02-03T13:05:33.691378+00:00 INFO   ] event_type=EventType7 event_id=21e9bfaf-fb37-4012-bfb8-bf9b2a9998ef Event description
+[2018-02-03T13:26:47.504377+00:00 WARNING] event_type=EventType1 event_id=715cc223-48d2-4037-a78b-422a17b3bdaf Event description
+[2018-02-03T12:58:27.378565+00:00 INFO   ] event_type=EventType9 event_id=a4d41ce9-a6c1-418a-9b8e-bf0b2a813f36 Event description
+[2018-02-03T12:51:54.610093+00:00 WARNING] event_type=EventType6 event_id=1352c3fd-20fe-4b54-944c-eb5981f450f5 Event description
+[2018-02-03T12:45:59.446665+00:00 DEBUG  ] event_type=EventType5 event_id=39f100bb-7659-4e66-8133-2920b4c8a1e6 Event description
+[2018-02-03T13:31:07.584196+00:00 DEBUG  ] event_type=EventType19 event_id=eed05eb1-00dd-466b-8d73-15de81b24bfb Event description
+[2018-02-03T12:59:38.467731+00:00 WARNING] event_type=EventType15 event_id=a4e29a8c-8daa-4a3b-bd8d-93a2064e2bd7 Event description
+[2018-02-03T13:28:52.028988+00:00 DEBUG  ] event_type=EventType9 event_id=9c0cafec-579d-407a-87bc-05df48cafe60 Event description
+[2018-02-03T12:37:46.037074+00:00 DEBUG  ] event_type=EventType18 event_id=32b82138-ec19-4c7d-8803-c8909a27a96f Event description
+[2018-02-03T13:08:19.125940+00:00 DEBUG  ] event_type=EventType9 event_id=2beb5aa1-cf16-4e3d-bdd2-4fb50b7ae6c3 Event description
+[2018-02-03T13:09:26.227066+00:00 WARNING] event_type=EventType5 event_id=2d6fc7ee-e4f3-4e47-b978-13c34cdbf90a Event description
+Error line
+[2018-02-03T13:24:53.954663+00:00 INFO   ] event_type=EventType17 event_id=7c6b86af-6b33-4c7a-93cc-635462f47b67 Event description
+Error line
+[2018-02-03T13:19:14.516019+00:00 DEBUG  ] event_type=EventType6 event_id=6112e8f6-826b-41e1-8129-cf2a0125b36c Event description
+[2018-02-03T12:38:11.054212+00:00 INFO   ] event_type=EventType2 event_id=83be1686-2a5e-4b9d-a6b6-adf111110def Event description
+[2018-02-03T12:41:35.152898+00:00 WARNING] event_type=EventType4 event_id=257e72ac-4681-4600-b88c-cd4cf25cb33d Event description
+Error line
+Error line
+[2018-02-03T12:43:25.002017+00:00 WARNING] event_type=EventType16 event_id=aeb14bb6-d277-4bf7-9798-79c844921c52 Event description
+[2018-02-03T12:57:44.893180+00:00 DEBUG  ] event_type=EventType12 event_id=394a9cf3-5093-46c8-b810-aef96b15f693 Event description
+[2018-02-03T12:45:53.723177+00:00 WARNING] event_type=EventType17 event_id=31522f81-86ab-447b-ada3-7f72f19685bb Event description
+[2018-02-03T13:18:58.205210+00:00 INFO   ] event_type=EventType16 event_id=7d5a4876-69db-447f-bb71-34c0a306b112 Event description
+[2018-02-03T13:32:50.896664+00:00 WARNING] event_type=EventType18 event_id=b1b0af43-0d23-4f32-b946-899d7d134818 Event description
+Error line
+[2018-02-03T13:16:22.554200+00:00 INFO   ] event_type=EventType16 event_id=a9a2182d-bf3e-4c8f-8629-505d717572b8 Event description
+[2018-02-03T13:05:34.868403+00:00 INFO   ] event_type=EventType9 event_id=e2e0c47d-38f0-4853-a429-9e7fa0c73b68 Event description
+[2018-02-03T12:38:48.136262+00:00 INFO   ] event_type=EventType4 event_id=bd8b70a1-24c1-40fc-b87e-7204d6eab9f2 Event description
+[2018-02-03T13:05:27.514357+00:00 DEBUG  ] event_type=EventType9 event_id=320546dd-cb9a-491c-847e-91f640a64914 Event description
+[2018-02-03T12:57:47.025019+00:00 DEBUG  ] event_type=EventType0 event_id=29710ce9-517f-4d96-996c-cae2208e283d Event description
+[2018-02-03T12:38:33.529183+00:00 WARNING] event_type=EventType8 event_id=7368a040-d157-448f-b5e0-ae2f01084720 Event description
+[2018-02-03T13:15:28.021080+00:00 WARNING] event_type=EventType15 event_id=39985eba-8542-48a3-be47-a11c4c35de0b Event description
+[2018-02-03T13:24:05.543702+00:00 INFO   ] event_type=EventType9 event_id=574142a5-a8d2-46cc-a76e-213b55f26274 Event description
+[2018-02-03T13:34:02.451887+00:00 INFO   ] event_type=EventType5 event_id=d6997f0a-1a7b-4f32-8917-224d5281f0ea Event description
+[2018-02-03T12:56:42.498595+00:00 INFO   ] event_type=EventType1 event_id=ec852767-bc00-44b8-ae1c-ef10bb99dcd2 Event description
+[2018-02-03T13:02:45.705604+00:00 WARNING] event_type=EventType0 event_id=3e0cabd4-3e60-40b0-a800-4f528ddff4fc Event description
+[2018-02-03T12:38:44.464845+00:00 INFO   ] event_type=EventType19 event_id=6091b9b8-34b8-4585-8fc7-96d14d326b01 Event description
+[2018-02-03T12:47:42.405365+00:00 INFO   ] event_type=EventType2 event_id=dabd2331-235d-46d4-ba3e-20693758edbf Event description
+[2018-02-03T13:26:21.754175+00:00 INFO   ] event_type=EventType14 event_id=df4ea8e2-429e-435e-a34f-8ead7ce06b33 Event description
+[2018-02-03T12:44:57.565564+00:00 INFO   ] event_type=EventType19 event_id=4de63ba3-7103-4b4e-9995-8ba7913bffdf Event description
+[2018-02-03T13:06:09.172341+00:00 DEBUG  ] event_type=EventType19 event_id=372ad381-47c3-4bd2-85da-357f5324d792 Event description
+[2018-02-03T13:15:36.171353+00:00 INFO   ] event_type=EventType7 event_id=81c67f13-6f9c-47c9-8ebd-95939d4a14e5 Event description
+[2018-02-03T12:52:38.635495+00:00 DEBUG  ] event_type=EventType9 event_id=3399350c-3a21-4eb6-b152-54149f27a475 Event description
+[2018-02-03T12:39:35.645614+00:00 DEBUG  ] event_type=EventType16 event_id=9138d1f6-a9f5-46f6-abbd-cadf16a2f207 Event description
+[2018-02-03T12:36:26.211790+00:00 WARNING] event_type=EventType19 event_id=4dda89c7-62c9-4772-8d29-cf68280cfe6a Event description
+Error line
+[2018-02-03T13:20:58.613280+00:00 DEBUG  ] event_type=EventType3 event_id=82993ebf-59fd-4991-8579-3608706682c8 Event description
+[2018-02-03T12:55:33.218943+00:00 WARNING] event_type=EventType12 event_id=8ae9044a-072a-487e-88d0-f2a1da862ab4 Event description
+[2018-02-03T13:17:19.690246+00:00 DEBUG  ] event_type=EventType0 event_id=9a6914d4-fe13-44e2-b902-d2783bf14180 Event description
+[2018-02-03T12:42:25.329790+00:00 DEBUG  ] event_type=EventType15 event_id=999cf8fc-7dd7-4ebf-b623-2a0d34e2007e Event description
+[2018-02-03T13:24:21.575297+00:00 DEBUG  ] event_type=EventType9 event_id=951db1d0-3b19-4d83-808e-c4e1437c7269 Event description
+[2018-02-03T12:55:02.281741+00:00 DEBUG  ] event_type=EventType5 event_id=b7823d4a-be0f-4c37-8530-fc08bbd10c0f Event description
+[2018-02-03T13:07:46.592478+00:00 DEBUG  ] event_type=EventType9 event_id=443044c0-10f4-486d-a870-8941953a8864 Event description
+[2018-02-03T13:33:42.463880+00:00 INFO   ] event_type=EventType9 event_id=122c8703-dfa8-42d7-97df-1d123cc5dcd6 Event description
+Error line
+[2018-02-03T13:16:09.535204+00:00 WARNING] event_type=EventType14 event_id=ffe4391d-1f79-4818-87c1-f1b2db374130 Event description
+[2018-02-03T12:39:41.365234+00:00 DEBUG  ] event_type=EventType17 event_id=31e3adeb-e272-409a-bd28-9e68ad4e692d Event description
+[2018-02-03T13:26:41.227110+00:00 INFO   ] event_type=EventType9 event_id=d4dfc40f-866e-4714-b9fb-ada49267b7a5 Event description
+[2018-02-03T13:34:09.309582+00:00 INFO   ] event_type=EventType9 event_id=0bdf8569-9ef6-4dc1-b240-d8b200cc7534 Event description
+[2018-02-03T13:33:41.173932+00:00 WARNING] event_type=EventType9 event_id=5bc25193-2d9b-441d-8410-c15ec492c3f6 Event description
+[2018-02-03T13:04:19.905379+00:00 INFO   ] event_type=EventType9 event_id=ada2e6a3-4772-422b-b0dc-575566cb6235 Event description
+[2018-02-03T13:13:41.467475+00:00 DEBUG  ] event_type=EventType12 event_id=1148865c-4900-49c0-8c8b-784304ea8ec1 Event description
+[2018-02-03T12:41:54.916166+00:00 WARNING] event_type=EventType9 event_id=b566e629-5dc4-45f4-a113-74db5388316e Event description
+[2018-02-03T12:46:11.701096+00:00 WARNING] event_type=EventType11 event_id=7b1381be-93c8-49a7-86ef-2ec1d7013c49 Event description
+[2018-02-03T12:52:37.552180+00:00 DEBUG  ] event_type=EventType2 event_id=b9c511e9-3994-40cb-8d8f-f3ce3b8d6799 Event description
+[2018-02-03T13:22:28.577145+00:00 WARNING] event_type=EventType3 event_id=52372218-4899-4c15-b034-856a150153f5 Event description
+[2018-02-03T13:00:21.361731+00:00 WARNING] event_type=EventType12 event_id=fddc44d4-5273-4328-806c-0e5b8acd526d Event description
+[2018-02-03T12:52:41.395426+00:00 WARNING] event_type=EventType3 event_id=abe87aae-d20a-4fd8-b638-903ab3215364 Event description
+[2018-02-03T13:09:00.141941+00:00 WARNING] event_type=EventType2 event_id=74654dd3-675b-47e0-acf8-4b47a271e052 Event description
+[2018-02-03T13:04:12.993040+00:00 INFO   ] event_type=EventType0 event_id=3996ab2a-76e6-4434-8365-549905431039 Event description
+[2018-02-03T12:42:46.563677+00:00 WARNING] event_type=EventType9 event_id=83af59ca-ac4b-4d1c-89cc-123a5abe7a4e Event description
+[2018-02-03T12:52:34.886210+00:00 DEBUG  ] event_type=EventType4 event_id=a5083169-cdb9-4680-ac14-4d2e8d1dbe52 Event description
+[2018-02-03T13:15:02.379095+00:00 INFO   ] event_type=EventType9 event_id=467efce5-1c4f-4e88-be7e-5c05f9c43883 Event description
+[2018-02-03T13:19:32.775973+00:00 DEBUG  ] event_type=EventType6 event_id=c08b2c73-2a2c-40f2-8421-027f1f235140 Event description
+[2018-02-03T13:09:26.790960+00:00 INFO   ] event_type=EventType9 event_id=dd5376e1-e8df-41b0-b3d9-4e9923d416f7 Event description
+[2018-02-03T12:40:59.004753+00:00 WARNING] event_type=EventType9 event_id=fff956f2-afbd-42c4-a649-37f9a4742ff3 Event description
+[2018-02-03T12:53:22.187775+00:00 INFO   ] event_type=EventType17 event_id=e3009fed-b408-470e-96f9-b63b2aa43b12 Event description
+[2018-02-03T12:37:15.923447+00:00 WARNING] event_type=EventType2 event_id=114f51d4-d4e5-4e6d-83f1-72b88b0f0f82 Event description
+[2018-02-03T13:22:53.574772+00:00 WARNING] event_type=EventType0 event_id=69f65fb4-53d0-4007-b851-1d4231637d18 Event description
+[2018-02-03T12:54:42.592247+00:00 INFO   ] event_type=EventType19 event_id=7e3a4aff-fc83-4dd2-a8af-0e324212a6af Event description
+[2018-02-03T13:00:50.903869+00:00 WARNING] event_type=EventType9 event_id=34e050ac-6770-4f10-b1b7-461ee5e911b8 Event description
+[2018-02-03T13:33:25.800811+00:00 DEBUG  ] event_type=EventType8 event_id=ae718ec7-6e14-4644-9657-14256f35d4be Event description
+[2018-02-03T12:47:32.199371+00:00 WARNING] event_type=EventType11 event_id=baece830-6cf7-4f7a-a4ce-0e1a446e8ca4 Event description
+[2018-02-03T13:09:38.166961+00:00 WARNING] event_type=EventType12 event_id=3e261ca2-a7f0-4638-994c-39ec1b00c59e Event description
+[2018-02-03T12:55:36.866145+00:00 WARNING] event_type=EventType18 event_id=51ec6efe-a3d4-4194-abe7-04cfae7ae152 Event description
+[2018-02-03T13:13:19.849680+00:00 WARNING] event_type=EventType15 event_id=87bc55fd-5586-4818-9a76-07ba4fafba66 Event description
+Error line
+[2018-02-03T12:59:13.059088+00:00 DEBUG  ] event_type=EventType6 event_id=6a001480-408f-4d29-a8f2-3a5deb9aefb8 Event description
+[2018-02-03T13:17:59.280175+00:00 INFO   ] event_type=EventType15 event_id=9467dcac-50fd-4f9b-835b-b29a908c6c46 Event description
+[2018-02-03T12:39:10.055702+00:00 INFO   ] event_type=EventType9 event_id=2c00d158-0dd9-4c6e-ad6a-d7c025d7eb9a Event description
+[2018-02-03T12:42:12.682128+00:00 DEBUG  ] event_type=EventType18 event_id=2d7964d7-49b5-4dfa-bf17-f09f1cd195c6 Event description
+[2018-02-03T12:47:40.076074+00:00 DEBUG  ] event_type=EventType16 event_id=a636ff0e-dacc-4f55-bad2-cc2da07f2004 Event description
+[2018-02-03T12:50:33.638974+00:00 DEBUG  ] event_type=EventType10 event_id=9fdc5ec5-183a-4cb1-88a8-304ae856443d Event description
+Error line
+[2018-02-03T12:57:49.403910+00:00 DEBUG  ] event_type=EventType8 event_id=7873ccfb-968c-424c-873a-19741c7850e1 Event description
+[2018-02-03T13:18:07.423037+00:00 INFO   ] event_type=EventType10 event_id=c5eb9c1d-6c7d-49b1-9ff9-26454ce2283a Event description
+[2018-02-03T13:06:21.501465+00:00 INFO   ] event_type=EventType18 event_id=d88aa288-f9fa-4745-8a76-0b7cfaa469a3 Event description
+[2018-02-03T13:17:46.177777+00:00 INFO   ] event_type=EventType19 event_id=81da9dcf-ac1f-4da2-9a13-d578b39ea14a Event description
+[2018-02-03T13:25:02.528285+00:00 WARNING] event_type=EventType16 event_id=974ba86d-f59a-4657-b41b-c7a61c08f8ef Event description
+[2018-02-03T12:59:18.670144+00:00 INFO   ] event_type=EventType15 event_id=0399431a-ea7d-4000-a4ac-2f0f692ae174 Event description
+[2018-02-03T13:04:23.803707+00:00 INFO   ] event_type=EventType16 event_id=5e3a11fe-9d37-44a5-b880-56958266c43c Event description
+Error line
+[2018-02-03T12:42:09.769913+00:00 DEBUG  ] event_type=EventType10 event_id=d1a6b522-e45a-4276-a419-2bc4323b441d Event description
+[2018-02-03T12:43:56.237138+00:00 INFO   ] event_type=EventType11 event_id=7029ac3c-7a62-49e0-839f-67f2211aac38 Event description
+[2018-02-03T13:25:19.059262+00:00 DEBUG  ] event_type=EventType19 event_id=1728c306-a59e-4d1a-96a2-f3ca226f15ef Event description
+[2018-02-03T13:32:09.916422+00:00 DEBUG  ] event_type=EventType18 event_id=7d340aed-b76b-40b0-ad1b-c3bd1c9d0ca4 Event description
+[2018-02-03T13:14:33.224119+00:00 WARNING] event_type=EventType12 event_id=fc616ff6-de9b-4c20-9f9f-3372f6f1e732 Event description
+[2018-02-03T12:47:01.457885+00:00 INFO   ] event_type=EventType18 event_id=0f6d8da0-5742-40bc-85f1-b8616621d4d8 Event description
+[2018-02-03T12:43:06.944397+00:00 WARNING] event_type=EventType9 event_id=6b6a084b-ea48-43d4-9af1-093daeae6f2e Event description
+[2018-02-03T13:30:43.398956+00:00 DEBUG  ] event_type=EventType9 event_id=2eca559f-fd05-4116-9d17-7cc403a524be Event description
+Error line
+[2018-02-03T13:24:14.140434+00:00 DEBUG  ] event_type=EventType18 event_id=aeab4f89-f362-4ce7-a162-9c04fa27d0bf Event description
+[2018-02-03T12:44:20.510406+00:00 DEBUG  ] event_type=EventType9 event_id=bbbf8dd2-8b26-4a54-a753-5206d02326e5 Event description
+[2018-02-03T13:31:42.212698+00:00 INFO   ] event_type=EventType9 event_id=4ea89808-9df1-492b-a35e-1a2dd2c2d988 Event description
+[2018-02-03T13:00:13.714127+00:00 INFO   ] event_type=EventType9 event_id=166e88a5-ad00-4c2f-a9b9-4267c80aa6fa Event description
+Error line
+[2018-02-03T13:34:54.294777+00:00 INFO   ] event_type=EventType0 event_id=bb7f0793-a810-4a6a-b113-b3b0fe23e7dc Event description
+[2018-02-03T13:01:47.579727+00:00 WARNING] event_type=EventType19 event_id=a7a05e19-96ea-47eb-9158-1c4015142e03 Event description
+[2018-02-03T12:48:28.165822+00:00 WARNING] event_type=EventType17 event_id=5a662214-001c-441b-ac89-b3b775d5f746 Event description
+[2018-02-03T13:19:49.343246+00:00 INFO   ] event_type=EventType9 event_id=fdff7b85-e52e-4fab-a76f-35a3449e27e8 Event description
+[2018-02-03T13:33:47.735941+00:00 INFO   ] event_type=EventType12 event_id=afe2837c-338f-45fa-b94a-c71281a4793c Event description
+[2018-02-03T12:53:23.415370+00:00 WARNING] event_type=EventType19 event_id=de9d278e-c48a-4892-a4dd-b428d50db807 Event description
+[2018-02-03T13:17:11.710163+00:00 DEBUG  ] event_type=EventType12 event_id=bab7d256-a18d-4884-817d-6dfecf89dadc Event description
+[2018-02-03T12:42:26.007633+00:00 WARNING] event_type=EventType12 event_id=f224cbb1-7b2c-44c8-88b4-091e70f49b39 Event description
+[2018-02-03T12:43:35.073578+00:00 DEBUG  ] event_type=EventType15 event_id=eb1bdb99-edcc-44a9-abd0-69fe548c253f Event description
+[2018-02-03T13:20:09.848832+00:00 WARNING] event_type=EventType9 event_id=f63fe811-5b8a-4e57-ab8b-fa2ee84c20e1 Event description
+[2018-02-03T12:46:43.709871+00:00 INFO   ] event_type=EventType10 event_id=ca5145c8-8e76-400b-afc6-de03b439393f Event description
+[2018-02-03T12:52:38.695199+00:00 DEBUG  ] event_type=EventType4 event_id=6ce97259-130c-43ed-af2b-c81f60007075 Event description
+[2018-02-03T13:13:48.814171+00:00 WARNING] event_type=EventType12 event_id=cb31667c-e76d-422b-9804-a6fe0d0915af Event description
+Error line
+[2018-02-03T12:47:53.620504+00:00 WARNING] event_type=EventType13 event_id=93ed539d-8b7a-478a-a621-667c8fec84de Event description
+[2018-02-03T13:16:48.053456+00:00 WARNING] event_type=EventType3 event_id=c89ee180-9972-4613-b623-da50c9c104bc Event description
+[2018-02-03T12:56:22.465577+00:00 INFO   ] event_type=EventType1 event_id=f25bea62-e43d-42db-8426-c9c10e6d4320 Event description
+[2018-02-03T13:08:40.474665+00:00 DEBUG  ] event_type=EventType4 event_id=bb191b98-1837-4929-801c-a7ed57071eca Event description
+[2018-02-03T12:46:21.093287+00:00 DEBUG  ] event_type=EventType4 event_id=866a33d7-cad4-49d0-8338-481e4f63cd45 Event description
+[2018-02-03T13:32:48.514671+00:00 DEBUG  ] event_type=EventType8 event_id=81f76a7e-b037-460e-aecf-c2bf85ffbc2e Event description
+[2018-02-03T13:06:03.728409+00:00 INFO   ] event_type=EventType11 event_id=fe1a207e-69ac-47ab-b2ba-8f2b75054b40 Event description
+[2018-02-03T13:35:07.228156+00:00 DEBUG  ] event_type=EventType3 event_id=001f4804-943f-4c83-a389-1c278323f4a9 Event description
+[2018-02-03T13:18:56.826585+00:00 INFO   ] event_type=EventType2 event_id=0f820a1f-959e-4b2f-ac48-494c5b7b848b Event description
+[2018-02-03T13:26:02.425816+00:00 WARNING] event_type=EventType14 event_id=8d54cae6-0dab-4cea-99f2-1416fe435f9c Event description
+[2018-02-03T12:39:17.548890+00:00 DEBUG  ] event_type=EventType15 event_id=d75d36ee-593d-4e9b-ac82-5d128513d1fa Event description
+[2018-02-03T13:21:23.084921+00:00 INFO   ] event_type=EventType19 event_id=6de8377e-5ef2-4cfa-92d7-8f14bace577c Event description
+[2018-02-03T12:40:11.953876+00:00 WARNING] event_type=EventType2 event_id=79b5b173-ea16-4dd5-9100-c7920db49bcf Event description
+[2018-02-03T13:15:04.805461+00:00 DEBUG  ] event_type=EventType15 event_id=a50c7a6b-5733-4d40-8a58-2fe1f8116451 Event description
+[2018-02-03T12:59:54.861503+00:00 DEBUG  ] event_type=EventType17 event_id=f50f8051-d8f5-476e-b54a-fbff2e885f47 Event description
+[2018-02-03T13:23:42.667732+00:00 WARNING] event_type=EventType7 event_id=1cfd65f5-3ec4-4492-8407-fd54fc90443d Event description
+[2018-02-03T12:44:34.129718+00:00 INFO   ] event_type=EventType14 event_id=a0440c8d-3f7d-471b-a3a9-2364c70227bf Event description
+[2018-02-03T12:47:27.676036+00:00 DEBUG  ] event_type=EventType2 event_id=9e8d9db0-eea5-493f-8cdf-ee9bb9530a19 Event description
+[2018-02-03T13:10:58.171580+00:00 DEBUG  ] event_type=EventType18 event_id=9f712696-84d4-4788-a8d1-a39d7ddf2c13 Event description
+[2018-02-03T13:15:18.884584+00:00 INFO   ] event_type=EventType10 event_id=98b9eab9-8a0a-4c00-8168-5d6b2acd44ba Event description
+[2018-02-03T13:01:10.716075+00:00 DEBUG  ] event_type=EventType12 event_id=b44821f1-c682-4d27-9a39-67f1797081ab Event description
+[2018-02-03T12:59:38.828215+00:00 WARNING] event_type=EventType12 event_id=e26b8f4c-5443-4365-b894-394429ac91f7 Event description
+[2018-02-03T13:17:40.787747+00:00 WARNING] event_type=EventType11 event_id=4d3b18ba-35a3-4d52-a978-e3d896f71682 Event description
+Error line
+[2018-02-03T12:47:48.796696+00:00 DEBUG  ] event_type=EventType9 event_id=61db3b80-6d63-4cff-8041-0432fd1b69c8 Event description
+[2018-02-03T13:21:16.847743+00:00 DEBUG  ] event_type=EventType6 event_id=cfe1d4d3-f869-4ff8-93de-598bdf002c79 Event description
+[2018-02-03T13:28:57.731107+00:00 INFO   ] event_type=EventType15 event_id=bd15ae61-7ed5-4c9d-a06f-5a0226f6067a Event description
+[2018-02-03T13:03:31.632303+00:00 DEBUG  ] event_type=EventType10 event_id=0fde4672-d348-42a1-baf9-4f62b84365be Event description
+[2018-02-03T13:06:45.329901+00:00 INFO   ] event_type=EventType9 event_id=c5e6eadf-cbb8-4d98-b9ae-721a256b592b Event description
+[2018-02-03T12:59:32.185356+00:00 DEBUG  ] event_type=EventType6 event_id=9902e0b0-684a-4e9c-b408-dfb0959d153c Event description
+[2018-02-03T13:07:20.438667+00:00 DEBUG  ] event_type=EventType1 event_id=35570902-72fd-434c-a5fd-3c6c87244fd7 Event description
+[2018-02-03T12:38:23.487692+00:00 INFO   ] event_type=EventType12 event_id=96939ae0-9cc6-4f73-8563-70d5e65566f7 Event description
+[2018-02-03T13:30:59.231160+00:00 DEBUG  ] event_type=EventType9 event_id=18579386-dfd1-4532-bf37-03ba42649bcf Event description
+[2018-02-03T12:36:02.942158+00:00 WARNING] event_type=EventType6 event_id=c7536237-e867-4c00-ad26-c4a6e8cb681e Event description
+[2018-02-03T13:00:04.732192+00:00 INFO   ] event_type=EventType0 event_id=a4042f4c-11ed-42eb-a1f6-76745b18c581 Event description
+[2018-02-03T12:36:44.764640+00:00 WARNING] event_type=EventType1 event_id=4e0c0205-4692-40fa-a23b-de82d46fa6f1 Event description
+[2018-02-03T13:34:33.792599+00:00 INFO   ] event_type=EventType14 event_id=016ac480-2537-4b42-bafd-cf213acd972c Event description
+[2018-02-03T12:51:46.710453+00:00 DEBUG  ] event_type=EventType9 event_id=2c47889d-7d0f-407a-b11d-adcc2ced5dd8 Event description
+[2018-02-03T12:51:28.156128+00:00 DEBUG  ] event_type=EventType16 event_id=940789da-0b22-452a-8e83-267156282287 Event description
+[2018-02-03T12:39:41.700863+00:00 WARNING] event_type=EventType12 event_id=cff47e6b-40b8-4ebe-b8eb-48712aa0d7e0 Event description
+[2018-02-03T13:29:32.692413+00:00 DEBUG  ] event_type=EventType6 event_id=9ced1b4d-80bb-4074-a5d0-631476c4d95e Event description
+[2018-02-03T12:39:30.415313+00:00 INFO   ] event_type=EventType16 event_id=cd229f8d-9a1f-4e87-869e-4a064c26b6ef Event description
+[2018-02-03T13:22:20.539437+00:00 INFO   ] event_type=EventType17 event_id=5779b4aa-4af4-45f2-b3e8-9b8e64c511be Event description
+[2018-02-03T12:48:07.574908+00:00 WARNING] event_type=EventType8 event_id=10797c24-2b8e-400d-b6a5-89f41f7393ed Event description
+[2018-02-03T13:07:22.094176+00:00 DEBUG  ] event_type=EventType16 event_id=f1f085ca-843e-4b1f-b6bf-36816c79a625 Event description
+[2018-02-03T12:43:39.424229+00:00 DEBUG  ] event_type=EventType5 event_id=670bdda2-46ff-4dc9-a608-a85793127e5e Event description
+[2018-02-03T13:18:55.398713+00:00 DEBUG  ] event_type=EventType16 event_id=145dfeb6-02cb-4883-995e-b51378621c20 Event description
+[2018-02-03T12:53:53.302743+00:00 DEBUG  ] event_type=EventType9 event_id=833f8773-6abd-4484-87dd-f523f73752e3 Event description
+[2018-02-03T12:59:11.026488+00:00 WARNING] event_type=EventType16 event_id=f74bc091-7f39-4c72-9d2f-b79126856440 Event description
+[2018-02-03T13:14:01.224341+00:00 INFO   ] event_type=EventType9 event_id=2b6e1e34-5aa1-4d67-97ce-348591e7b1ed Event description
+[2018-02-03T13:31:29.423856+00:00 DEBUG  ] event_type=EventType19 event_id=c222cc51-abfa-477c-9911-b22580ccf1c1 Event description
+[2018-02-03T12:36:12.238186+00:00 DEBUG  ] event_type=EventType6 event_id=cd4e85ce-3333-4fec-827f-aecb749e6caa Event description
+[2018-02-03T13:16:54.757905+00:00 DEBUG  ] event_type=EventType4 event_id=ae9736ad-1b4a-45cb-87ff-5b5d857cc211 Event description
+[2018-02-03T13:06:05.720893+00:00 INFO   ] event_type=EventType0 event_id=ba783b82-e551-4f1c-aff9-c5c72cd3d466 Event description
+[2018-02-03T13:12:10.860801+00:00 DEBUG  ] event_type=EventType15 event_id=bf4377de-e4a3-4f79-a564-6f4f03488789 Event description
+[2018-02-03T13:32:35.780071+00:00 INFO   ] event_type=EventType3 event_id=7042ea3a-6f44-4564-80ec-ea91f2b70fa8 Event description
+[2018-02-03T13:07:39.433895+00:00 DEBUG  ] event_type=EventType9 event_id=a038d2bd-898e-4b5d-bd31-5bd60b242ad6 Event description
+[2018-02-03T12:44:43.041290+00:00 WARNING] event_type=EventType14 event_id=4dd5516a-89e4-4a4f-ada8-3ef8b2c870cf Event description
+[2018-02-03T12:59:59.906474+00:00 DEBUG  ] event_type=EventType10 event_id=abcf10f0-d124-4661-98eb-0d7d773dc09f Event description
+[2018-02-03T13:02:38.677948+00:00 DEBUG  ] event_type=EventType9 event_id=e641758d-ba37-4686-bd73-acc564eeea92 Event description
+[2018-02-03T12:55:46.776195+00:00 DEBUG  ] event_type=EventType4 event_id=74f87827-59eb-4ed8-be2f-14aa3bcf9b35 Event description
+[2018-02-03T13:03:45.766793+00:00 WARNING] event_type=EventType0 event_id=3b94ee4f-dc10-4a26-a914-8dc8bb49352d Event description
+[2018-02-03T12:56:53.789759+00:00 WARNING] event_type=EventType7 event_id=58b8576c-f99c-4536-ad5b-e57877f8be1a Event description
+[2018-02-03T13:27:06.778039+00:00 WARNING] event_type=EventType14 event_id=e0572299-624d-4852-9b4b-13cb4da9f8f1 Event description
+[2018-02-03T13:14:03.520334+00:00 DEBUG  ] event_type=EventType5 event_id=a6870e04-bf71-4b01-9b0c-45b9f7adb7c3 Event description
+[2018-02-03T13:02:10.154834+00:00 WARNING] event_type=EventType9 event_id=e6e3d3e0-91f5-4da2-8e9f-d768b58c5380 Event description
+[2018-02-03T13:08:25.057055+00:00 WARNING] event_type=EventType0 event_id=7ffc791d-d1f5-48aa-9422-5b2d19bc82e1 Event description
+[2018-02-03T12:58:35.727135+00:00 WARNING] event_type=EventType9 event_id=64b19951-9a34-496a-9bb4-648bbef95e0e Event description
+[2018-02-03T13:33:54.284473+00:00 DEBUG  ] event_type=EventType18 event_id=95431cc7-5e86-4107-8424-25a60a5da65a Event description
+[2018-02-03T12:36:01.229955+00:00 INFO   ] event_type=EventType14 event_id=b90c278e-b6ef-4a3b-ab77-7f96e62aa27f Event description
+[2018-02-03T13:23:36.234051+00:00 INFO   ] event_type=EventType13 event_id=35f1cfee-26f0-4e22-83a4-0a2737ef451a Event description
+[2018-02-03T13:27:16.941319+00:00 WARNING] event_type=EventType10 event_id=a6feaa79-974e-480a-a5e5-f0d433492a5a Event description
+Error line
+[2018-02-03T13:13:37.619468+00:00 INFO   ] event_type=EventType4 event_id=3d9a3820-c7af-4340-acca-1c1352981dc8 Event description
+[2018-02-03T13:29:57.636195+00:00 INFO   ] event_type=EventType3 event_id=29b7a59e-3fcf-4fbe-9c7e-51c7e60479ee Event description
+[2018-02-03T12:45:21.067110+00:00 INFO   ] event_type=EventType6 event_id=056ad1d8-c2ee-4549-ba15-7daf386f74d2 Event description
+Error line
+[2018-02-03T12:49:45.448407+00:00 DEBUG  ] event_type=EventType12 event_id=e9855b9a-1007-486e-bf06-0bfc4bf0d86c Event description
+[2018-02-03T12:39:44.925300+00:00 INFO   ] event_type=EventType4 event_id=a2c6bdd5-dff7-45d0-bef3-de4ec8285eb9 Event description
+[2018-02-03T13:33:09.258170+00:00 DEBUG  ] event_type=EventType7 event_id=0f35d1e4-45a0-40dc-b9f3-9c6eea1961e9 Event description
+[2018-02-03T12:59:18.385007+00:00 WARNING] event_type=EventType8 event_id=e8c0b4e4-e346-4d42-8b48-db81f4f362ee Event description
+[2018-02-03T12:38:21.169195+00:00 WARNING] event_type=EventType6 event_id=c17de4c0-e636-496d-b422-f59a1167e9e4 Event description
+[2018-02-03T12:54:08.432608+00:00 INFO   ] event_type=EventType2 event_id=7ef33a3d-108a-4067-aed9-ec9377337104 Event description
+[2018-02-03T13:24:35.151612+00:00 WARNING] event_type=EventType17 event_id=be643fc3-f850-4cee-b874-7f282f1c1d7e Event description
+Error line
+[2018-02-03T13:01:28.320902+00:00 DEBUG  ] event_type=EventType11 event_id=a2f40ed4-f455-48f2-9053-9f9f2c87f3e4 Event description
+[2018-02-03T12:40:58.923070+00:00 WARNING] event_type=EventType13 event_id=27eb0dfb-09c8-444f-85b9-8df2d29ff02a Event description
+[2018-02-03T13:33:58.568075+00:00 WARNING] event_type=EventType12 event_id=f9392558-05d0-439c-9dbb-575580667bf2 Event description
+[2018-02-03T13:22:34.862923+00:00 DEBUG  ] event_type=EventType9 event_id=0f736de8-325f-45cb-b8a1-755472b2950b Event description
+[2018-02-03T13:09:08.535133+00:00 INFO   ] event_type=EventType15 event_id=b464f22f-1d53-499d-9811-01c038beac38 Event description
+[2018-02-03T12:38:49.752094+00:00 WARNING] event_type=EventType9 event_id=785ccb90-92e4-4beb-9a4b-147e152892a9 Event description
+[2018-02-03T12:44:55.837028+00:00 DEBUG  ] event_type=EventType9 event_id=aef97263-16fa-4ebe-bc3d-1830dbc4c28d Event description
+[2018-02-03T13:27:49.112558+00:00 DEBUG  ] event_type=EventType9 event_id=8ced7acf-61c3-4834-af35-2b92a5b79fb4 Event description
+[2018-02-03T13:22:48.070476+00:00 DEBUG  ] event_type=EventType9 event_id=64aff073-9c66-48db-9f85-64f616c402e0 Event description
+[2018-02-03T13:29:39.409507+00:00 WARNING] event_type=EventType15 event_id=d37b8e6c-f106-412d-b7ed-c783380a2cb6 Event description
+[2018-02-03T13:33:48.135642+00:00 DEBUG  ] event_type=EventType14 event_id=8df4becf-138a-42b2-8f2e-8642e1723766 Event description
+[2018-02-03T12:58:14.078835+00:00 WARNING] event_type=EventType9 event_id=5124de57-81dd-4d71-9ed2-94dea7584ead Event description
+[2018-02-03T13:12:40.839478+00:00 INFO   ] event_type=EventType12 event_id=7231faa7-66c6-4d7f-9a34-262754b08c50 Event description
+[2018-02-03T13:25:17.385702+00:00 DEBUG  ] event_type=EventType3 event_id=558ef42a-dc32-4b21-9023-29a20e8a0ed0 Event description
+[2018-02-03T13:19:12.933949+00:00 WARNING] event_type=EventType9 event_id=e70a7f75-6f3a-48b9-89c2-3e67da4c8209 Event description
+[2018-02-03T13:00:02.449113+00:00 WARNING] event_type=EventType9 event_id=828abb3d-1faa-4078-80b7-81b0925edbb3 Event description
+[2018-02-03T13:20:35.452927+00:00 WARNING] event_type=EventType0 event_id=deafe561-c059-41b2-aeac-92fea454dba2 Event description
+[2018-02-03T13:32:50.049436+00:00 WARNING] event_type=EventType7 event_id=031ff3f9-c669-484c-8e8d-8d663b2c6143 Event description
+[2018-02-03T13:29:24.071908+00:00 WARNING] event_type=EventType4 event_id=f0784030-948c-44bf-82bd-004e67879b1a Event description
+[2018-02-03T12:55:08.735882+00:00 DEBUG  ] event_type=EventType9 event_id=2d1a0569-83af-4472-a4a7-c0a7e769bb32 Event description
+[2018-02-03T13:20:38.055242+00:00 WARNING] event_type=EventType18 event_id=f5488b33-29c9-4d37-9330-8c5b1f6e1b28 Event description
+[2018-02-03T13:27:27.005945+00:00 DEBUG  ] event_type=EventType7 event_id=bd9f86b7-84cb-4909-b867-569db0b13241 Event description
+[2018-02-03T12:59:31.280463+00:00 DEBUG  ] event_type=EventType17 event_id=f89139ec-3028-42b5-9d4a-6de309cfcd25 Event description
+[2018-02-03T13:15:15.711653+00:00 WARNING] event_type=EventType15 event_id=d9c45467-3e30-46c8-baee-9d10346824f9 Event description
+[2018-02-03T13:07:11.891834+00:00 DEBUG  ] event_type=EventType13 event_id=0d48e7a3-24e6-4164-a684-ca7e66f8a8c5 Event description
+[2018-02-03T13:24:10.592990+00:00 INFO   ] event_type=EventType18 event_id=e32c7f6d-3eb0-4692-a133-a154ed4a731b Event description
+[2018-02-03T13:01:54.175623+00:00 DEBUG  ] event_type=EventType1 event_id=9e420a04-5859-4f48-b038-dc96eb735073 Event description
+[2018-02-03T13:25:23.678367+00:00 DEBUG  ] event_type=EventType2 event_id=05488804-77c6-4177-8741-bbc0a372adf6 Event description
+[2018-02-03T12:50:00.786791+00:00 DEBUG  ] event_type=EventType14 event_id=1098307b-c9ac-43f6-afaa-de962be60997 Event description
+[2018-02-03T13:29:53.885337+00:00 WARNING] event_type=EventType15 event_id=95ae8187-bd37-45c0-ac62-f9838f90c14d Event description
+Error line
+[2018-02-03T13:15:00.045028+00:00 WARNING] event_type=EventType17 event_id=82395708-abd3-4268-86b4-af77e27f15e9 Event description
+[2018-02-03T13:00:15.715291+00:00 WARNING] event_type=EventType15 event_id=52a2f97c-eedf-48ce-9b78-560b402b18f1 Event description
+[2018-02-03T12:52:58.877173+00:00 INFO   ] event_type=EventType15 event_id=c05ead09-7177-4f55-86af-3ec9f90d1bd9 Event description
+[2018-02-03T12:41:40.828223+00:00 WARNING] event_type=EventType0 event_id=984e6a9e-0ac4-47ad-9e2c-c7daeca20c1a Event description
+[2018-02-03T12:38:47.931321+00:00 DEBUG  ] event_type=EventType2 event_id=ac5edb62-98e1-41de-a9fa-c1a876094ecb Event description
+[2018-02-03T12:54:00.325532+00:00 WARNING] event_type=EventType8 event_id=a1a1f10a-6d2e-4bd9-8bae-12c809c06d1b Event description
+[2018-02-03T12:48:37.600075+00:00 WARNING] event_type=EventType3 event_id=475a0c74-e217-4346-aa84-a4d19dc349c5 Event description
+[2018-02-03T13:13:26.841652+00:00 DEBUG  ] event_type=EventType9 event_id=3b52f48d-64b0-4521-9e45-25fc22956b1b Event description
+[2018-02-03T12:49:10.628404+00:00 WARNING] event_type=EventType9 event_id=ef45fb67-8d49-402c-8409-1aaf8f0e399d Event description
+[2018-02-03T12:40:27.515077+00:00 WARNING] event_type=EventType11 event_id=5a0800be-824f-4971-85e8-26d0fbedd4c1 Event description
+Error line
+[2018-02-03T13:26:27.130131+00:00 INFO   ] event_type=EventType6 event_id=a3bf719e-cdb5-4c38-8428-b60bdca8131b Event description
+[2018-02-03T13:06:04.677489+00:00 WARNING] event_type=EventType11 event_id=3b921f0b-ed65-4d7c-b06d-32ef3726d56e Event description
+[2018-02-03T12:48:12.702314+00:00 WARNING] event_type=EventType9 event_id=18ab89ed-3891-406a-8138-9d05e07c95c3 Event description
+[2018-02-03T13:23:45.278426+00:00 WARNING] event_type=EventType9 event_id=81b30a2c-6741-48ea-8293-a72b02a9f016 Event description
+[2018-02-03T12:36:18.597524+00:00 DEBUG  ] event_type=EventType4 event_id=cf9e1f00-87e9-4524-bdf8-1a067a58c532 Event description
+[2018-02-03T12:45:41.356813+00:00 INFO   ] event_type=EventType9 event_id=524c36ea-2285-4a98-afbc-abe2ca210987 Event description
+[2018-02-03T13:31:31.050617+00:00 INFO   ] event_type=EventType0 event_id=59e420ea-fcad-4390-9073-1c2420ce7f4a Event description
+[2018-02-03T13:00:41.920234+00:00 INFO   ] event_type=EventType8 event_id=71531b0b-0897-4907-99fc-0669f42b15e4 Event description
+[2018-02-03T12:50:48.114440+00:00 DEBUG  ] event_type=EventType9 event_id=c683f1a6-85e2-482a-b557-cb79f6b49528 Event description
+[2018-02-03T13:24:22.673429+00:00 WARNING] event_type=EventType9 event_id=8833f1ba-de3f-4d0d-9bbe-5f4a90c91551 Event description
+[2018-02-03T13:17:09.395733+00:00 INFO   ] event_type=EventType5 event_id=ad7f167e-d80b-43da-bffa-a63a0da040f7 Event description
+[2018-02-03T12:45:13.519029+00:00 INFO   ] event_type=EventType9 event_id=58666d5b-5788-4fdc-842b-15f206378d78 Event description
+Error line
+[2018-02-03T13:06:30.670044+00:00 WARNING] event_type=EventType17 event_id=ef3e4f52-6c5c-4635-ba25-02928fcb28c1 Event description
+[2018-02-03T13:25:47.037656+00:00 INFO   ] event_type=EventType9 event_id=b35cf951-7832-4519-a89f-4337b44125c9 Event description
+[2018-02-03T12:43:21.620527+00:00 INFO   ] event_type=EventType14 event_id=37e4f2c4-ba22-4b95-a449-57e400745a91 Event description
+Error line
+[2018-02-03T13:05:50.393954+00:00 WARNING] event_type=EventType9 event_id=3ee74393-6c21-486a-b82d-256473b66167 Event description
+[2018-02-03T13:30:25.415242+00:00 INFO   ] event_type=EventType3 event_id=c034ece8-4f38-423c-914e-8a4582655229 Event description
+Error line
+[2018-02-03T13:07:39.492970+00:00 INFO   ] event_type=EventType2 event_id=cb554fdb-35f9-4c5d-a366-ace36667f272 Event description
+[2018-02-03T13:05:45.651992+00:00 INFO   ] event_type=EventType17 event_id=37100140-dbd4-4c20-8bd7-ed6154ac88cb Event description
+[2018-02-03T13:20:02.597223+00:00 WARNING] event_type=EventType3 event_id=e2c9b749-a7bf-4349-ba51-84f5cf2c2e8a Event description
+[2018-02-03T13:28:10.063800+00:00 DEBUG  ] event_type=EventType7 event_id=52d00cbe-dc40-4557-830c-6865b838e26c Event description
